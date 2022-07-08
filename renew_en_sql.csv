@@ -1,0 +1,1001 @@
+electrical_capacity;energy_source_level_1;energy_source_level_2;energy_source_level_3;technology;data_source;nuts_1_region;nuts_2_region;nuts_3_region;lon;lat;municipality;municipality_code;postcode;address;federal_state;commissioning_date;decommissioning_date;voltage_level;eeg_id;dso;dso_id;tso
+0.08;Renewable energy;Bioenergy;Sewage and landfill gas;Sewage and landfill gas;TransnetBW;DE1;DE13;DE135;8.578018405;48.29242877;Oberndorf;8325045.0;78727.0;;Baden-Württemberg;1900-01-02;;medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE25C;10.88156233;48.96399433;;9577173.0;91757.0;;Brandenburg;1901-01-01;;low voltage;;Stadtwerke Treuchtlingen;10001282.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE148;9.664272955;47.84613128;Baienfurt;8436011.0;88255.0;;Baden-Württemberg;1901-01-01;;low voltage / medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.12;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE148;9.664272955;47.84613128;Baienfurt;8436011.0;88255.0;;Baden-Württemberg;1901-01-01;;low voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.044;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE128;8.775570795;49.35553908;Bammental;8125005.0;69245.0;;Baden-Württemberg;1901-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.08;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE128;8.775570795;49.35553908;Bammental;8125005.0;69245.0;;Baden-Württemberg;1901-11-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.05;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11A;9.853297113;49.16269351;Unterscheffach;8127099.0;74549.0;;Baden-Württemberg;1904-01-01;;low voltage;;Elektrizitätswerk Ley;10000358.0;TransnetBW
+0.0075;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED2;DED2E;13.44652411;51.09284122;;14627020.0;1665.0;;Sachsen;1905-01-01;;low voltage;;ENSO NETZ GmbH;10001874.0;50Hertz
+0.055;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA24;7.040958034;51.07514643;Leverkusen;5316000.0;51381.0;;Nordrhein-Westfalen;1905-01-01;;low voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.7;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.430415864;50.98411445;Engelskirchen;5374008.0;51766.0;;Nordrhein-Westfalen;1905-04-10;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+1.2;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.430415864;50.98411445;Engelskirchen;5374008.0;51766.0;;Nordrhein-Westfalen;1905-04-15;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.8;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.430415864;50.98411445;Engelskirchen;5374008.0;51766.0;;Nordrhein-Westfalen;1905-04-16;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.04;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE144;9.979264573;48.43354223;Ulm;8421000.0;89081.0;;Baden-Württemberg;1905-04-19;;medium voltage;;Stadtwerke Ulm/Neu-Ulm Netze GmbH;10001254.0;TransnetBW
+0.4;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.430415864;50.98411445;Engelskirchen;5374008.0;51766.0;;Nordrhein-Westfalen;1905-04-22;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.055;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE272;10.62483932;47.88362047;Kaufbeuren;9762000.0;87600.0;;Bayern;1905-05-04;;low voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.56;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.430415864;50.98411445;Engelskirchen;5374008.0;51766.0;;Nordrhein-Westfalen;1905-05-08;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.09;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE26;DE26C;9.95438309;49.51209447;Röttingen / Röttingen;9679182.0;97285.0;;Bayern;1905-06-26;;low voltage;;Versorgungsbetriebe Röttingen;10001075.0;TransnetBW
+1.053;Renewable energy;Bioenergy;Biomass and biogas;Biomass and biogas;TransnetBW;DE2;DE27;DE27D;10.63753985;48.8439812;Alerheim;8115010.0;86733.0;;Bayern;1905-06-27;;medium voltage;;Netzgesellschaft Ostwürttemberg DonauRies GmbH;10002974.0;TransnetBW
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.01591182;47.87472388;;9187117.0;83043.0;;Brandenburg;1906-01-01;;low voltage;;Stadtwerke Bad Aibling;10001093.0;TenneT
+0.175;Renewable energy;Hydro;;Run-of-river;TenneT;DEF;DEF0;DEF0B;10.02769268;54.34292716;Quarnbek;1058130.0;24107.0;;Saarland;1906-01-01;;medium voltage;;SW Kiel Netz GmbH;10001113.0;TenneT
+0.45;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;10.04106922;51.17928314;Eschwege;6636003.0;37269.0;;Hamburg;1906-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.3;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.01591182;47.87472388;Bad Aibling;9187117.0;83043.0;;Brandenburg;1906-01-01;;low voltage;;Stadtwerke Bad Aibling;10001093.0;TenneT
+0.45;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.67651744;47.80871639;Siegsdorf;9189145.0;83313.0;;Brandenburg;1906-01-01;;low voltage;;Elektrizitätsgenossenschaft Vogling & Angrenzer eG;10000782.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.01591182;47.87472388;Bad Aibling;9187117.0;83043.0;;Brandenburg;1906-01-01;;low voltage;;Stadtwerke Bad Aibling;10001093.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;10.04106922;51.17928314;;6636003.0;37269.0;;Hamburg;1906-09-01;;low voltage;;Elektrizitätswerk Rohmund GmbH;10000052.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;10.04106922;51.17928314;Eschwege-Niederhone;6636003.0;37269.0;;Hamburg;1906-09-01;;low voltage;;Elektrizitätswerk Rohmund GmbH;10000052.0;TenneT
+0.266;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.69393941;47.7011094;Bad Wiessee;9182111.0;83707.0;;Brandenburg;1907-01-01;;low voltage / medium voltage;;Elektrizitätswerk Tegernsee Carl Miller KG;10000988.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE142;8.948272741;48.46313452;;8416036.0;72108.0;;Baden-Württemberg;1907-01-01;;medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.67202933;48.22349666;;9171111.0;84503.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DEF;DEF0;DEF0A;10.55954152;54.31379928;Helmstorf;1057026.0;24321.0;;Saarland;1907-01-01;;low voltage;;Schleswig-Holstein Netz AG;10003299.0;TenneT
+0.15;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.55130967;48.32021921;Haimhausen;9174121.0;85778.0;;Brandenburg;1907-01-01;;low voltage / medium voltage;;E-Werke Haniel Haimhausen OHG;10000813.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.16742706;47.85589916;Stephanskirchen;9187177.0;83071.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21N;11.12956446;47.80798866;;9190142.0;82398.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE266;10.44407506;50.34512982;;9673113.0;97633.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.16;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.13511176;47.66961338;Oberaudorf;9187157.0;83080.0;;Brandenburg;1907-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1907-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.97378768;48.83681638;Deggendorf;9271119.0;94469.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.42561587;47.79040826;;9189120.0;83224.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0302;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE25B;11.32961214;49.05830453;Greding;9576122.0;91171.0;;Brandenburg;1907-01-01;;low voltage;;Raiffeisenbank Greding-Thalmässing e.G.;10001385.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.16792774;48.72371552;;9271127.0;94547.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;10.97631954;49.7483471;Hallerndorf;9474133.0;91352.0;;Brandenburg;1907-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.25;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE144;9.952042406;48.34408989;Ulm;8421000.0;89079.0;;Baden-Württemberg;1907-01-01;;medium voltage;;Stadtwerke Ulm/Neu-Ulm Netze GmbH;10001254.0;TransnetBW
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.28705125;48.87270144;Aufhausen;9375115.0;93089.0;;Brandenburg;1907-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.18;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.73195118;47.63186894;Kreuth;9182124.0;83708.0;;Brandenburg;1907-01-02;;low voltage / medium voltage;;Elektrizitätswerk Tegernsee Carl Miller KG;10000988.0;TenneT
+0.372;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21C;11.2077757;48.13416182;Schöngeising;9179147.0;82296.0;;Brandenburg;1908-01-01;;medium voltage;;Stadtwerke Fürstenfeldbruck GmbH;10000514.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.400763;48.90409189;;9375171.0;93099.0;;Brandenburg;1908-01-01;;low voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;10.04106922;51.17928314;Eschwege;6636003.0;37269.0;;Hamburg;1908-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.62;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED42;13.25494034;50.71165619;Pockau;14521495.0;9509.0;;Sachsen;1908-01-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.065;Renewable energy;Hydro;;Run-of-river;50Hertz;DEG;DEG0;DEG0I;11.50303541;50.58002658;Eichicht;16073038.0;7338.0;;Thüringen;1908-01-01;;low voltage;;Elektrizitätswerk Max Peissker;10001686.0;50Hertz
+0.174;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.91415344;48.30620879;Erding;9177117.0;85435.0;;Brandenburg;1908-01-15;;medium voltage;;SEW Stromversorgungs-GmbH;10001422.0;TenneT
+0.0235;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21B;11.92296344;48.46841278;;9178143.0;85368.0;;Brandenburg;1908-06-20;;low voltage;;SWM Infrastruktur GmbH & Co. KG;10001016.0;TenneT
+0.107;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE128;8.826180393;49.32956022;Meckesheim;8236004.0;74909.0;;Baden-Württemberg;1908-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.465;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE13A;7.972168716;47.61802008;Rickenbach;8337090.0;79736.0;;Baden-Württemberg;1908-08-01;;medium voltage;;ED Netze GmbH;10001411.0;TransnetBW
+0.372;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;11.93443538;47.88914887;Bruckmühl;9187122.0;83052.0;;Brandenburg;1908-11-16;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE139;7.830680182;47.64507875;Schopfheim;8336081.0;79650.0;;Baden-Württemberg;1909-01-01;;low voltage;;ED Netze GmbH;10001411.0;TransnetBW
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.48458112;48.08215120000001;Tacherting;9189149.0;83342.0;;Brandenburg;1909-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.07;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE146;9.967957106;48.20027762;Schwendi;8426108.0;88477.0;;Baden-Württemberg;1909-01-01;;medium voltage;;Gebrüder Miller GmbH & Co. KG;10001133.0;TransnetBW
+0.098;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE27D;10.63753985;48.8439812;Alerheim;9779111.0;86733.0;;Bayern;1909-01-01;;medium voltage;;Elektrizitätswerk Wennenmühle Schörger KG;10001066.0;TransnetBW
+0.065;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.174117429;48.47519608;Oppenau;8436018.0;77728.0;;Baden-Württemberg;1909-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.744;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1A;7.628249495;50.30402804;Lahnstein;7141075.0;56112.0;;Rheinland-Pfalz;1909-07-01;;low voltage;;Syna GmbH;10001495.0;Amprion
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;11.06433166;49.72250583;;9474126.0;91301.0;;Brandenburg;1909-12-09;;low voltage;;Stadtwerke Forchheim GmbH;10000591.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.50538515;49.43379041;;9376178.0;92559.0;;Brandenburg;1910-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE26A;9.60208237;49.80267908;;9677154.0;97855.0;;Brandenburg;1910-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.078;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED2;DED2F;14.20283224;50.89654614;Bad Schandau;14628030.0;1814.0;;Sachsen;1910-01-01;;low voltage;;ENSO NETZ GmbH;10001874.0;50Hertz
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.25335568;47.98322855;;9187173.0;83137.0;;Brandenburg;1910-01-01;;low voltage;;Elektrizitäts-Genossenschaft Schonstett eG;10001372.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE26A;9.561818655;49.84215402;;9677157.0;97828.0;;Brandenburg;1910-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.30026448;47.90193659;;9187128.0;83093.0;;Brandenburg;1910-05-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.3819895;47.71892969;Schleching;9189141.0;83259.0;;Brandenburg;1910-05-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.07;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE247;10.89733138;50.1340111;Itzgrund;9473138.0;96274.0;;Brandenburg;1910-08-04;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.16761575;48.12145295;;9183139.0;83562.0;;Brandenburg;1910-11-05;;low voltage;;KWH Netz GmbH;10000978.0;TenneT
+0.448;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;Brannenburg;9187120.0;83098.0;;Brandenburg;1910-12-31;;medium voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.5;Renewable energy;Bioenergy;Sewage and landfill gas;Sewage and landfill gas;TransnetBW;DE1;DE11;DE115;9.119152773;48.95822306;Bietigheim-Bissingen;8118079.0;74321.0;;Baden-Württemberg;1911-01-01;;medium voltage;;Stadtwerke Bietigheim-Bissingen GmbH;10000386.0;TransnetBW
+0.315;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE115;9.119152773;48.95822306;Bietigheim-Bissingen;8118079.0;74321.0;;Baden-Württemberg;1911-01-01;;low voltage / medium voltage;;Stadtwerke Bietigheim-Bissingen GmbH;10000386.0;TransnetBW
+0.06;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.265635179;48.13365934;Triberg;8317011.0;78098.0;;Baden-Württemberg;1911-01-01;;medium voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.0075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.180951021;48.15368179999999;;8317011.0;78136.0;;Baden-Württemberg;1911-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.3;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.265635179;48.13365934;Triberg;8317011.0;78098.0;;Baden-Württemberg;1911-01-01;;medium voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.265635179;48.13365934;;8317011.0;78098.0;;Baden-Württemberg;1911-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.56;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;7.916951416;48.55782024;Willstätt;8126011.0;77731.0;;Baden-Württemberg;1911-07-01;;medium voltage;;Syna GmbH;10001495.0;TransnetBW
+0.095;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE141;9.230902509;48.45809239;Pfullingen;8415059.0;72793.0;;Baden-Württemberg;1911-10-01;;medium voltage;;FairNetz GmbH;10006804.0;TransnetBW
+0.279;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE139;7.830680182;47.64507875;Schopfheim;8336081.0;79650.0;;Baden-Württemberg;1911-11-15;;medium voltage;;ED Netze GmbH;10001411.0;TransnetBW
+0.019;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.94194332;49.25493375;;9371148.0;92287.0;;Brandenburg;1912-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.6;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE142;9.094414967;48.55634571;Tübingen;8416041.0;72074.0;;Baden-Württemberg;1912-01-02;;low voltage;;Stadtwerke Tübingen GmbH;10000434.0;TransnetBW
+0.104;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.174117429;48.47519608;Oppenau;8436018.0;77728.0;;Baden-Württemberg;1912-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.93;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB18;7.441976084;50.46541256;Neuwied;7138045.0;56567.0;;Rheinland-Pfalz;1912-07-01;;low voltage;;Syna GmbH;10001495.0;Amprion
+0.099;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.174117429;48.47519608;Oppenau;8317098.0;77728.0;;Baden-Württemberg;1912-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.41;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12B;8.865143832;48.94267403;Mühlacker;8236040.0;75417.0;;Baden-Württemberg;1912-12-30;;medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.32;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA5B;8.125588462;51.48515945;Möhnesee;5974032.0;59519.0;;Nordrhein-Westfalen;1913-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+2.5;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA5B;8.125588462;51.48515945;Möhnesee;5974032.0;59519.0;;Nordrhein-Westfalen;1913-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.4978297;48.8897053;;9278117.0;94348.0;;Brandenburg;1913-01-01;;low voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE146;9.967957106;48.20027762;;8426108.0;88477.0;;Baden-Württemberg;1913-01-01;;low voltage;;Gebrüder Miller GmbH & Co. KG;10001133.0;TransnetBW
+0.15;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA5B;7.979550123;51.50148948;Ense;5974012.0;59469.0;;Nordrhein-Westfalen;1913-01-24;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.78;Renewable energy;Hydro;;Run-of-river;50Hertz;DEG;DEG0;DEG0P;10.23164751;51.1230299;Falken;16063076.0;99830.0;;Thüringen;1913-05-01;;medium voltage;;TEN Thüringer Energienetze GmbH & Co. KG;10001832.0;50Hertz
+0.0184;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.28287568;49.72284665;;9374121.0;92685.0;;Brandenburg;1914-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+5.0;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE93;DE93B;9.261975148;52.85047900000001;Dörverden;3361003.0;27313.0;;Niedersachsen;1914-01-01;;high voltage;;Avacon Netz GmbH;10010461.0;TenneT
+0.88;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED42;13.17513347;50.77124412;Grünhainichen;14521270.0;9579.0;;Sachsen;1914-07-14;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.022;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB22;7.020545918;50.03420621;Bengel;7231005.0;54538.0;;Rheinland-Pfalz;1915-01-01;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.773;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED43;13.06605217;50.91480606;Frankenberg;14522150.0;9669.0;;Sachsen;1915-01-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.019;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;11.85803027;47.91721294;;9187130.0;83620.0;;Brandenburg;1915-01-02;;low voltage;;Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen  eG;10000779.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;11.85803027;47.91721294;;9187130.0;83620.0;;Brandenburg;1915-01-02;;low voltage;;Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen  eG;10000779.0;TenneT
+4.4;Renewable energy;Hydro;;Run-of-river;Amprion;DE1;DE11;DE115;9.211800825;48.96070657;Pleidelsheim;8118063.0;74385.0;;Baden-Würtemberg;1915-02-09;;medium voltage;;Syna GmbH;10001495.0;Amprion
+0.084;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE146;10.00734132;48.12653829;Gutenzell-Hürbel / Weitenbühl;8436009.0;88484.0;;Baden-Württemberg;1916-01-01;;low voltage / medium voltage;;Gebrüder Miller GmbH & Co. KG;10001133.0;TransnetBW
+0.42;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE115;9.119152773;48.95822306;Bietigheim-Bissingen;8118079.0;74321.0;;Baden-Württemberg;1917-06-01;;low voltage;;Stadtwerke Bietigheim-Bissingen GmbH;10000386.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21N;11.14691822;47.84495637;;9190157.0;82362.0;;Brandenburg;1918-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.66;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE252;11.02667809;49.60628147;Erlangen;9562000.0;91054.0;;Brandenburg;1919-01-01;;low voltage;;Erlanger Stadtwerke AG;10001488.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1919-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.27;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE216;11.38377484;47.66322621;Kochel;9173133.0;82431.0;;Brandenburg;1919-06-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.007;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;11.85803027;47.91721294;;9187130.0;83620.0;;Brandenburg;1919-07-31;;low voltage;;Elektrizitäts- und Wasserversorgungsgenossenschaft Vagen  eG;10000779.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21N;11.12956446;47.80798866;;9190142.0;82398.0;;Brandenburg;1919-09-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.3;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.67651744;47.80871639;Siegsdorf;9189145.0;83313.0;;Brandenburg;1920-01-02;;low voltage;;Elektrizitätsgenossenschaft Vogling & Angrenzer eG;10000782.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.3819895;47.71892969;Schleching;9189141.0;83259.0;;Brandenburg;1920-12-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0285;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.158867165;48.55442408;;8435005.0;77883.0;;Baden-Württemberg;1921-01-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.36;Renewable energy;Hydro;;Run-of-river;50Hertz;DE8;DE80;DE80O;11.58727852;53.26685497;Grabow;13076050.0;19300.0;;Mecklenburg-Vorpommern;1921-01-01;;low voltage;;WEMAG Netz GmbH;10003007.0;50Hertz
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.84433458;49.22530870000001;;9373134.0;92366.0;;Brandenburg;1921-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.2;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA58;7.851427971;51.20728928;Plettenberg;5962052.0;58840.0;;Nordrhein-Westfalen;1921-01-01;;medium voltage;;Enervie Vernetzt GmbH;10007117.0;Amprion
+0.04;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.99646836;48.99106475;Sinzing;9375199.0;93161.0;;Brandenburg;1921-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.4663824;47.71900735;Unterwössen;9189160.0;83246.0;;Brandenburg;1921-01-01;;low voltage;;Elektrizitätswerk Oberwössen e.G.;10001215.0;TenneT
+1.27;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE213;12.09973948;47.83165448;Rosenheim;9163000.0;83026.0;;Brandenburg;1921-01-01;;medium voltage;;Stadtwerke Rosenheim Netze GmbH;10001087.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.26805247;48.20793927;;8317051.0;78132.0;;Baden-Württemberg;1921-03-23;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+4.8;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE71;DE719;8.831426248;50.1532075;Maintal;6435019.0;63477.0;;Hamburg;1921-07-01;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+2.6;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;9.680465242;51.40902929999999;Hann. Münden;3159017.0;34346.0;;Niedersachsen;1921-07-01;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB24;6.914524413;50.19291605;Strotzbüsch;7233071.0;54552.0;;Rheinland-Pfalz;1921-09-24;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.82;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12B;8.865143832;48.94267403;Mühlacker;8236040.0;75417.0;;Baden-Württemberg;1921-11-30;;medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;;9272141.0;94133.0;;Brandenburg;1921-12-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21B;11.75839354;48.36804822;;9178124.0;85356.0;;Brandenburg;1922-01-01;;low voltage;;E-Werk Schweiger OHG;10000572.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.265635179;48.13365934;Triberg;8317011.0;78098.0;;Baden-Württemberg;1922-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+3.9;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE245;10.98327768;49.87071422;Strullendorf;9471195.0;96129.0;;Brandenburg;1922-01-01;;medium voltage / high voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05328;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE218;11.86968976;48.19896525;Ottenhofen;9177134.0;85570.0;;Brandenburg;1922-01-01;;low voltage;;SEW Stromversorgungs-GmbH;10001422.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.8752162;47.68777194;Schliersee;9182131.0;83727.0;;Brandenburg;1922-01-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;;9189152.0;84529.0;;Brandenburg;1922-02-22;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.25205592;47.83960321;;9187167.0;83083.0;;Brandenburg;1922-10-09;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.232972611;48.00973752;Krauchenwies;8437065.0;72505.0;;Baden-Württemberg;1922-12-31;;medium voltage;;Gemeindewerke Krauchenwies;10001603.0;TransnetBW
+0.018;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.232972611;48.00973752;;8437065.0;72505.0;;Baden-Württemberg;1922-12-31;;low voltage;;Gemeindewerke Krauchenwies;10001603.0;TransnetBW
+1.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.65680709;48.2718973;Winhöring;9171137.0;84543.0;;Brandenburg;1923-01-01;;medium voltage;;Kommunale Energienetze Inn-Salzach GmbH & Co. KG;10003402.0;TenneT
+0.078;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.20832962;49.74057443;Störnstein;9374158.0;92721.0;;Brandenburg;1923-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.144;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.489557662;51.32473583;Olsberg;5958036.0;59939.0;;Nordrhein-Westfalen;1923-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.352;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.489557662;51.32473583;Olsberg;5958036.0;59939.0;;Nordrhein-Westfalen;1923-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.21;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.327378104;48.53607586;Baiersbronn;8237004.0;72270.0;;Baden-Württemberg;1923-01-01;;medium voltage;;Gemeindewerke Baiersbronn;10001510.0;TransnetBW
+0.065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.99321409;49.18804978;Arrach;9372113.0;93474.0;;Brandenburg;1923-01-01;;low voltage;;EW Geiger GmbH;10001115.0;TenneT
+0.277;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.27933819;49.06631425;Zwiesel;9276148.0;94227.0;;Brandenburg;1923-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.12;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.91415344;48.30620879;Erding;9177117.0;85435.0;;Brandenburg;1923-01-15;;medium voltage;;SEW Stromversorgungs-GmbH;10001422.0;TenneT
+0.2675;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.45512011;48.73298669;Fürsteneck;9272119.0;94142.0;;Brandenburg;1923-03-23;;medium voltage;;Elektrizitäts-Versorgungs-Genossenschaft Perlesreut e.G.;10001598.0;TenneT
+0.6;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA59;7.887354509;51.11935882;Attendorn;5966004.0;57439.0;;Nordrhein-Westfalen;1923-04-10;;medium voltage;;BIGGE ENERGIE GmbH & Co. KG;10003897.0;Amprion
+3.3;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA58;7.834675443;51.44715895;Menden;5962040.0;58708.0;;Nordrhein-Westfalen;1923-05-01;;medium voltage;;Stadtwerke Fröndenberg GmbH;10000490.0;Amprion
+0.022;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.174117429;48.47519608;;8436018.0;77728.0;;Baden-Württemberg;1923-07-01;;low voltage;;Syna GmbH;10001495.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;12.0594816;48.19415649;;9177123.0;84424.0;;Brandenburg;1923-12-27;;low voltage;;KWH Netz GmbH;10000978.0;TenneT
+0.4;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.35555798;48.19560772;Aschau;9183113.0;84544.0;;Brandenburg;1924-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.5;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE71;DE71E;9.07728712;50.35913788;Ortenberg;6440019.0;63683.0;;Hamburg;1924-01-01;;medium voltage;;ovag Netz GmbH;10001836.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA47;8.683303786;51.82459377;;5774024.0;33161.0;;Nordrhein-Westfalen;1924-01-01;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.305;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;Waldkirchen;9272151.0;94065.0;;Brandenburg;1924-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.3;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA58;7.741328423;51.24540075;Werdohl;5962060.0;58791.0;;Nordrhein-Westfalen;1924-01-01;;medium voltage;;Enervie Vernetzt GmbH;10007117.0;Amprion
+1.0;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA5;DEA57;8.849161414;51.44496732;Marsberg;5958024.0;34431.0;;Nordrhein-Westfalen;1924-01-01;;medium voltage;;Energie Waldeck-Frankenberg GmbH;10000523.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1924-01-01;;low voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.11;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.68029684;48.57989069;Untergriesbach;9275153.0;94107.0;;Brandenburg;1924-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21C;11.22878963;48.17876881;Fürstenfeldbruck;9179121.0;82256.0;;Brandenburg;1924-01-02;;low voltage;;Stadtwerke Fürstenfeldbruck GmbH;10000514.0;TenneT
+0.036;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21C;11.22878963;48.17876881;Fürstenfeldbruck;9179121.0;82256.0;;Brandenburg;1924-01-02;;low voltage;;Stadtwerke Fürstenfeldbruck GmbH;10000514.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.19391784;48.0578138;;9187182.0;83512.0;;Brandenburg;1924-03-01;;low voltage;;Stadtwerke Wasserburg a. Inn;10000736.0;TenneT
+0.25;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.55168484;48.60301401;Thyrnau;9275150.0;94136.0;;Brandenburg;1924-07-28;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.6;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.276875827;50.67411093;Herborn;6532012.0;35745.0;;Hamburg;1924-10-15;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.8;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE125;8.680745091;49.40346963;Heidelberg;8221000.0;69115.0;;Baden-Württemberg;1925-01-01;;medium voltage;;Stadtwerke Heidelberg Netze GmbH;10003223.0;TransnetBW
+0.35;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED43;12.94386732;51.18022644;Leisnig;14522310.0;4703.0;;Sachsen;1925-01-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.89776741;49.07524701;;9375162.0;93164.0;;Brandenburg;1925-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.46;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.13575641;47.62434921;Kiefersfelden;9187148.0;83088.0;;Brandenburg;1925-01-01;;medium voltage;;Gemeindewerke Oberaudorf;10001459.0;TenneT
+0.75;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED43;12.94386732;51.18022644;Leisnig;14522310.0;4703.0;;Sachsen;1925-01-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.28705125;48.87270144;;9375115.0;93089.0;;Brandenburg;1925-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.57;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.92542061;49.12206086;Duggendorf;9375131.0;93182.0;;Brandenburg;1925-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1925-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE233;12.13162955;49.66818345;;9363000.0;92637.0;;Brandenburg;1925-01-01;;low voltage;;Stromnetz Weiden i. d. OPf. GmbH & Co. KG;10007081.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;Amprion;DE7;DE72;DE723;8.069515036;50.38703972;Limburg a.d. Lahn;6533009.0;65549.0;;Hessen;1925-01-01;;low voltage / medium voltage;;Energieversorgung Limburg GmbH;10000557.0;Amprion
+0.072;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE113;9.438571513;48.58482535;Owen;8116054.0;73277.0;;Baden-Württemberg;1925-01-01;;low voltage;;C. Ensinger GmbH & Co. KG;10001032.0;TransnetBW
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE24B;11.30863206;49.98666735;;9477164.0;96197.0;;Brandenburg;1925-07-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.85499264;49.30860992;Furth im Wald;9372126.0;93437.0;;Brandenburg;1926-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.232;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED43;13.14387915;50.99049648;Striegistal;14522540.0;9661.0;;Sachsen;1926-01-01;;low voltage / medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.99673361;48.68845974;;9271141.0;94486.0;;Brandenburg;1926-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.2;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA58;7.741328423;51.24540075;Werdohl;5962060.0;58791.0;;Nordrhein-Westfalen;1926-01-01;;medium voltage;;Enervie Vernetzt GmbH;10007117.0;Amprion
+0.26;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.167690681;50.62905936;Driedorf;6532007.0;35759.0;;Hamburg;1926-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.23;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.167690681;50.62905936;Driedorf;6532007.0;35759.0;;Hamburg;1926-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE24B;11.30863206;49.98666735;;9477164.0;96197.0;;Brandenburg;1926-09-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.064;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12A;8.442702668;48.79476445;Bad Herrenalb;8235033.0;76332.0;;Baden-Württemberg;1927-01-01;;low voltage;;Stadtwerke Bad Herrenalb GmbH;10001726.0;TransnetBW
+0.167;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.43887823;48.25896952;Dachau;9174115.0;85221.0;;Brandenburg;1927-03-01;;medium voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.42;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE139;7.830680182;47.64507875;Schopfheim;8336081.0;79650.0;;Baden-Württemberg;1927-08-26;;low voltage / medium voltage;;ED Netze GmbH;10001411.0;TransnetBW
+1.5;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA58;7.616881388;51.30921114;Nachrodt-Wiblingwerde;5962044.0;58769.0;;Nordrhein-Westfalen;1927-10-24;;medium voltage;;Stadtwerke Iserlohn GmbH;10001423.0;Amprion
+0.904;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;Brannenburg;9187120.0;83098.0;;Brandenburg;1927-12-31;;medium voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.26805247;48.20793927;Hornberg;8337076.0;78132.0;;Baden-Württemberg;1928-01-01;;medium voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.710831561;47.79929016;;8315007.0;79410.0;;Baden-Württemberg;1928-01-01;;low voltage;;ED Netze GmbH;10001411.0;TransnetBW
+0.0185;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB23;6.452817366;50.15035026;Nimsreuland;7232280.0;54614.0;;Rheinland-Pfalz;1928-01-01;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.037;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB23;6.452817366;50.15035026;Nimsreuland;7232280.0;54614.0;;Rheinland-Pfalz;1928-01-01;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE918;9.994202639;51.7098655;Northeim;3155011.0;37154.0;;Niedersachsen;1928-01-11;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+1.6;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA59;8.00203884;51.19939676;Finnentrop;5966012.0;57413.0;;Nordrhein-Westfalen;1928-08-07;;medium voltage;;BIGGE ENERGIE GmbH & Co. KG;10003897.0;Amprion
+1.9;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB14;7.740887838;49.78472421;Niederhausen;7133070.0;55585.0;;Rheinland-Pfalz;1929-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+3.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE261;9.161747386;49.94854863;Aschaffenburg;9661000.0;63743.0;;Brandenburg;1929-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+4.68;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE117;9.164197612;49.10932345;Heilbronn;8121000.0;74081.0;;Baden-Württemberg;1929-01-01;;medium voltage;;NHF Netzgesellschaft Heilbronn-Franken mbH;10003031.0;TransnetBW
+0.09;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.532673304;50.99269535;Gummersbach;5374012.0;51645.0;;Nordrhein-Westfalen;1929-01-01;;low voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+1.545;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE142;9.009535427;48.53230001;Tübingen;8416041.0;72070.0;;Baden-Württemberg;1929-10-01;;medium voltage;;Stadtwerke Tübingen GmbH;10000434.0;TransnetBW
+1.5;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.276875827;50.67411093;Herborn;6532012.0;35745.0;;Hamburg;1929-11-23;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+120.0;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED2;DED21;13.62050034;51.06576192;Dresden;14612000.0;1156.0;;Sachsen;1929-11-27;;high voltage / extra high voltage;;ENSO NETZ GmbH;10001874.0;50Hertz
+0.6;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA56;7.432639882;51.41343756;Herdecke;5954020.0;58313.0;;Nordrhein-Westfalen;1930-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.09;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.265635179;48.13365934;Triberg;8317011.0;78098.0;;Baden-Württemberg;1930-01-01;;medium voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE916;10.39641421;51.87814571;Goslar - Oker;3153017.0;38644.0;;Niedersachsen;1930-01-01;;medium voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+2.3;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.532673304;50.99269535;Gummersbach;5374012.0;51645.0;;Nordrhein-Westfalen;1930-01-01;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.0485;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE259;11.4936458;49.61120738;Hartenstein;9574129.0;91235.0;;Brandenburg;1930-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.26805247;48.20793927;Hornberg;8337076.0;78132.0;;Baden-Württemberg;1930-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+1.5;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1A;7.805171598;50.31743121;Nassau;7141106.0;56377.0;;Rheinland-Pfalz;1930-07-01;;medium voltage;;Syna GmbH;10001495.0;Amprion
+4.663;Renewable energy;Hydro;;Run-of-river;Amprion;DE1;DE12;DE128;8.988799424;49.46383904;Eberbach;8226013.0;69412.0;;Baden-Würtemberg;1931-01-01;;high voltage;;Syna GmbH;10001495.0;Amprion
+0.16;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.167690681;50.62905936;Driedorf;6532007.0;35759.0;;Hamburg;1932-07-19;;low voltage / medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.33;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE918;10.09869102;51.66014303;Katlenburg-Lindau - Elvershausen;3155007.0;37191.0;;Niedersachsen;1933-01-01;;low voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.53;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.37455847;49.02423698;Wiesent;9375209.0;93109.0;;Brandenburg;1933-01-01;;medium voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88469107;49.16267052;;9372137.0;93444.0;;Brandenburg;1934-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+4.88;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;10.44394708;51.65474893;Bad Lauterberg;3159003.0;37431.0;;Niedersachsen;1934-01-01;;medium voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;11.06433166;49.72250583;Forchheim;9474126.0;91301.0;;Brandenburg;1934-01-01;;low voltage;;Stadtwerke Forchheim GmbH;10000591.0;TenneT
+3.4;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE111;9.227455884;48.83603035;Stuttgart;8111000.0;70378.0;;Baden-Württemberg;1935-01-01;;medium voltage;;Stuttgart Netze GmbH;10012047.0;TransnetBW
+4.125;Renewable energy;Hydro;;Run-of-river;Amprion;DE1;DE12;DE127;9.148729212;49.32109207;Neckarzimmern;8225067.0;74865.0;;Baden-Würtemberg;1935-01-01;;high voltage;;Syna GmbH;10001495.0;Amprion
+0.18;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE136;8.180951021;48.15368179999999;Schonach;8317011.0;78136.0;;Baden-Württemberg;1935-01-01;;medium voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+4.359;Renewable energy;Hydro;;Run-of-river;Amprion;DE1;DE12;DE127;9.075527947;49.40896715;Neckargerach;8225064.0;69437.0;;Baden-Würtemberg;1935-01-01;;high voltage;;Syna GmbH;10001495.0;Amprion
+0.032;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE27E;10.1928583;47.43944404;Balderschwang;9780113.0;87538.0;;Bayern;1935-01-01;;low voltage;;Elektrizitätsnetze Allgäu GmbH;10001685.0;TransnetBW
+0.032;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE27A;9.782497315;47.609598;Sigmarszell;9776126.0;88138.0;;Bayern;1935-01-01;;medium voltage;;Elektrizitätsnetze Allgäu GmbH;10001685.0;TransnetBW
+0.08;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12A;8.722017111;48.53691241;Nagold;8235046.0;72202.0;;Baden-Württemberg;1936-01-01;;low voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58344833;49.36214538;;9373140.0;92283.0;;Brandenburg;1936-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE146;9.835052863;47.98964597;;8426038.0;88436.0;;Baden-Württemberg;1936-01-01;;low voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.0075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.26805247;48.20793927;;8337076.0;78132.0;;Baden-Württemberg;1936-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.41052123;49.80548215;;9377112.0;95671.0;;Brandenburg;1936-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.99646836;48.99106475;Sinzing;9375199.0;93161.0;;Brandenburg;1936-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0295;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.26805247;48.20793927;;8337076.0;78132.0;;Baden-Württemberg;1936-01-01;;low voltage;;EGT Energie GmbH;10001370.0;TransnetBW
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE736;8.635277249;51.00474816;Battenberg (Eder);6635004.0;35088.0;;Hamburg;1936-01-01;;low voltage;;Energie Waldeck-Frankenberg GmbH;10000523.0;TenneT
+0.224;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE916;10.60820306;51.73331157;Braunlage - St. Andreasberg;3153016.0;38700.0;;Niedersachsen;1936-01-01;;medium voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;Neunburg;9376147.0;92431.0;;Brandenburg;1936-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE27C;10.4944247;48.05863744;Mindelheim;9778173.0;87719.0;;Bayern;1936-10-01;;low voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.20378429;49.50145427;;9376153.0;92536.0;;Brandenburg;1937-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.47984316;49.10741474;;9372125.0;93167.0;;Brandenburg;1937-01-01;;low voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.292;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.24314295;49.20780579;Nittenau;9376149.0;93149.0;;Brandenburg;1937-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.108;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;Neunburg;9376147.0;92431.0;;Brandenburg;1937-01-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.254;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.849161414;51.44496732;Marsberg;5958024.0;34431.0;;Nordrhein-Westfalen;1938-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.145;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.93896029;49.3049658;Rieden;9371146.0;92286.0;;Brandenburg;1938-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.18;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.20832962;49.74057443;Störnstein;9374158.0;92721.0;;Brandenburg;1938-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.16;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.849161414;51.44496732;Marsberg;5958024.0;34431.0;;Nordrhein-Westfalen;1938-01-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.26;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.61946268;48.57426904;Obernzell;9275137.0;94130.0;;Brandenburg;1938-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.4870739;49.12190416;;9373112.0;92334.0;;Brandenburg;1938-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.119;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.58591209;48.26235773;Erharting;9183116.0;84513.0;;Brandenburg;1938-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.07;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.319866977;48.03911420000001;Mengen;8437076.0;88512.0;;Baden-Württemberg;1938-01-03;;low voltage;;Stadtwerke Mengen;10001553.0;TransnetBW
+0.065;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.319866977;48.03911420000001;Mengen-Ennetach;8437076.0;88512.0;;Baden-Württemberg;1938-01-03;;low voltage;;Stadtwerke Mengen;10001553.0;TransnetBW
+0.9;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA59;8.00203884;51.19939676;Finnentrop;5966012.0;57413.0;;Nordrhein-Westfalen;1938-09-10;;medium voltage;;BIGGE ENERGIE GmbH & Co. KG;10003897.0;Amprion
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.90694568;49.02964328;Deuerling;9375127.0;93180.0;;Brandenburg;1939-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.89776741;49.07524701;Laaber;9375162.0;93164.0;;Brandenburg;1939-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.475;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1939-01-01;;medium voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.07;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;Neunburg;9376147.0;92431.0;;Brandenburg;1939-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.485;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1939-01-01;;medium voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.77564191;48.7946258;Neustadt;9273152.0;93333.0;;Brandenburg;1939-12-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.074;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.94327379;49.01903393;Nittendorf;9375175.0;93152.0;;Brandenburg;1940-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0735;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE133;8.083280029;48.18394979999999;Elzach;8325014.0;79215.0;;Baden-Württemberg;1940-01-01;;low voltage;;Stadtwerke Elzach;10000627.0;TransnetBW
+0.245;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.19012297;48.4424567;Bad Griesbach;9275124.0;94086.0;;Brandenburg;1940-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.034;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;Dietfurt;9373121.0;92345.0;;Brandenburg;1940-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.319866977;48.03911420000001;Mengen;8437076.0;88512.0;;Baden-Württemberg;1940-01-02;;medium voltage;;Stadtwerke Mengen;10001553.0;TransnetBW
+0.0195;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE277;10.44584654;48.63176479;;9773183.0;89426.0;;Bayern;1940-02-16;;low voltage;;Netzgesellschaft Ostwürttemberg DonauRies GmbH;10002974.0;TransnetBW
+0.38;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA2;DEA2A;7.699426725;50.95924979999999;Reichshof;5374040.0;51580.0;;Nordrhein-Westfalen;1940-03-31;;medium voltage;;Rheinische NETZGesellschaft mbH;10001817.0;Amprion
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.93622528;49.35627589999999;Ensdorf;9371120.0;92266.0;;Brandenburg;1941-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.25;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11A;9.762847452;49.12496191;Schwäbisch Hall;8127076.0;74523.0;;Baden-Württemberg;1941-01-01;;medium voltage;;Stadtwerke Schwäbisch Hall GmbH;10000349.0;TransnetBW
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.35761307;49.88853001;;9377154.0;95643.0;;Brandenburg;1941-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.099;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11D;9.970718264;48.9100061;Abtsgmünd;8136002.0;73453.0;;Baden-Württemberg;1942-01-01;;medium voltage;;Netzgesellschaft Ostwürttemberg DonauRies GmbH;10002974.0;TransnetBW
+4.9;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE118;9.147350649;49.07738887;Lauffen;8125056.0;74348.0;;Baden-Württemberg;1942-01-01;;medium voltage;;NHF Netzgesellschaft Heilbronn-Franken mbH;10003031.0;TransnetBW
+0.226;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.19012297;48.4424567;Bad Griesbach;9275124.0;94086.0;;Brandenburg;1942-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.084;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.56799356;48.56118756;Marklkofen;9279126.0;84163.0;;Brandenburg;1942-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.087;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.99646836;48.99106475;Sinzing;9375199.0;93161.0;;Brandenburg;1942-02-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.21708857;48.55857061;;9275138.0;94496.0;;Brandenburg;1942-12-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;Pleystein;9374147.0;92714.0;;Brandenburg;1943-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.33220458;48.91390327;;9375201.0;93104.0;;Brandenburg;1943-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1248;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.58591209;48.26235773;Töging;9171132.0;84513.0;;Brandenburg;1943-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.94323725;47.74296137;Fischbachau;9182114.0;83730.0;;Brandenburg;1943-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1943-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1943-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.23;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE259;11.27187494;49.53745886;Lauf a.d. Pegnitz;9574138.0;91207.0;;Brandenburg;1943-01-01;;low voltage / medium voltage;;StWL Städtische Werke Lauf a.d. Pegnitz GmbH;10001159.0;TenneT
+0.36;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE733;9.747534561;51.01292322;Rotenburg;6632018.0;36199.0;;Hamburg;1943-09-01;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.067;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.40158626;49.70870312;Georgenberg;9374123.0;92697.0;;Brandenburg;1944-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.099;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;Moosbach;9374137.0;92709.0;;Brandenburg;1944-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;Hohenburg;9371129.0;92277.0;;Brandenburg;1944-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.7;Renewable energy;Hydro;;Run-of-river;50Hertz;DEG;DEG0;DEG0I;11.50303541;50.58002658;Kaulsdorf;16073038.0;7338.0;;Thüringen;1945-01-01;;extra high voltage;;50Hertz Transmission GmbH;10000450.0;50Hertz
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.17590196;49.73200596;;9374139.0;92660.0;;Brandenburg;1945-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.30026448;47.90193659;;9187128.0;83093.0;;Brandenburg;1945-01-01;;low voltage;;Elektrizitätswerk Stern KG Bad Endorf;10000126.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE24B;11.60878622;50.05799014;;9477121.0;95502.0;;Brandenburg;1945-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.071;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.20832962;49.74057443;Störnstein;9374158.0;92721.0;;Brandenburg;1945-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.019;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;9.979838342;51.1436622;;6636014.0;37287.0;;Hamburg;1946-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.0365;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;Hohenburg;9371129.0;92277.0;;Brandenburg;1946-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.046;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;Moosbach;9374137.0;92709.0;;Brandenburg;1946-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.44347768;48.86540495;;9278172.0;94368.0;;Brandenburg;1946-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.095;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;9.979838342;51.1436622;Wehretal;6636014.0;37287.0;;Hamburg;1946-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.32085682;48.77024834;Laberweinting;9278144.0;84082.0;;Brandenburg;1946-03-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.145;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.4663824;47.71900735;Unterwössen;9189160.0;83246.0;;Brandenburg;1946-03-31;;low voltage;;Elektrizitätswerk Unterwössen Döllerer & Greimel Netz GmbH & Co. KG;10001313.0;TenneT
+0.36;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE278;10.42721272;48.4706001;Mindelaltheim;9774127.0;89350.0;;Bayern;1946-09-27;;medium voltage;;Netzgesellschaft Ostwürttemberg DonauRies GmbH;10002974.0;TransnetBW
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.99646836;48.99106475;Sinzing;9375199.0;93161.0;;Brandenburg;1947-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.71444648;48.65604347;;9279122.0;94405.0;;Brandenburg;1947-01-01;;low voltage;;Stadtwerke Landau a.d. Isar;10000621.0;TenneT
+0.28;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;9.939766973;51.27653871;Bad Sooden-Allendorf;6636001.0;37242.0;;Hamburg;1947-05-23;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.4663824;47.71900735;Unterwössen;9189160.0;83246.0;;Brandenburg;1947-06-01;;low voltage;;Elektrizitätswerk Unterwössen Döllerer & Greimel Netz GmbH & Co. KG;10001313.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE2;DE27;DE277;10.3651904;48.52413239;;9773136.0;89423.0;;Bayern;1947-07-01;;low voltage;;Netzgesellschaft Ostwürttemberg DonauRies GmbH;10002974.0;TransnetBW
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.52437279;49.34459126;;9372154.0;92444.0;;Brandenburg;1948-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.098;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.21171935;49.77327601;Püchersreuth;9374150.0;92715.0;;Brandenburg;1948-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.156;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE215;12.80936303;47.8520212;Teisendorf;9172134.0;83317.0;;Brandenburg;1948-08-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.93622528;49.35627589999999;Ensdorf;9371120.0;92266.0;;Brandenburg;1948-10-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.423;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.49174815;49.65726291;Waidhaus;9374164.0;92726.0;;Brandenburg;1949-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;Pleystein;9374147.0;92714.0;;Brandenburg;1949-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;;9374147.0;92714.0;;Brandenburg;1949-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.095;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.278866676;48.11692784;Bingen;8437008.0;72511.0;;Baden-Württemberg;1949-01-01;;low voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.015;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.327378104;48.53607586;;8237004.0;72270.0;;Baden-Württemberg;1949-01-01;;low voltage;;Elektro-Trück GmbH;10002968.0;TransnetBW
+0.044;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.327378104;48.53607586;Baiersbronn;8237004.0;72270.0;;Baden-Württemberg;1949-01-01;;low voltage;;Gemeindewerke Baiersbronn;10001510.0;TransnetBW
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;Lupburg;9373143.0;92331.0;;Brandenburg;1949-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.36;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21C;11.22878963;48.17876881;Fürstenfeldbruck;9179121.0;82256.0;;Brandenburg;1949-01-02;;medium voltage;;Stadtwerke Fürstenfeldbruck GmbH;10000514.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;Dieterskirchen;9376122.0;92542.0;;Brandenburg;1949-01-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB22;6.750399528;49.99973503;Landscheid;7231503.0;54526.0;;Rheinland-Pfalz;1949-07-01;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.22303374;48.85969907;Pfakofen;9375182.0;93101.0;;Brandenburg;1949-07-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.115;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE722;8.563530236;50.58974524;Lahnau;6532015.0;35633.0;;Hamburg;1949-07-15;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;11.92967855;49.86481292;;9377129.0;95478.0;;Brandenburg;1950-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE216;11.53476787;47.77289624;;9173112.0;83646.0;;Brandenburg;1950-01-01;;low voltage;;Stadtwerke Bad Tölz GmbH;10001412.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.26457072;48.25303412;;9183144.0;84419.0;;Brandenburg;1950-01-01;;low voltage;;Westenthanner Energieversorgung GmbH;10001406.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.59736272;48.65027558;Mamming;9279125.0;94437.0;;Brandenburg;1950-01-01;;low voltage;;ew-schmid gmbh;10000343.0;TenneT
+0.106;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;Röhrnbach;9272141.0;94133.0;;Brandenburg;1950-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB25;6.826569773;49.71270522;Farschweiler;7235021.0;54317.0;;Rheinland-Pfalz;1950-01-01;;low voltage / medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE264;9.447767348;50.06295264;Frammersbach;9677129.0;97833.0;;Brandenburg;1950-01-01;;low voltage;;Gemeindewerke Frammersbach;10001681.0;TenneT
+1.4;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE111;9.252296713;48.77969153;Stuttgart;8111000.0;70327.0;;Baden-Württemberg;1950-01-01;;medium voltage;;Stuttgart Netze GmbH;10012047.0;TransnetBW
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;Dieterskirchen;9376122.0;92542.0;;Brandenburg;1950-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.43887823;48.25896952;Dachau;9174115.0;85221.0;;Brandenburg;1950-01-02;;low voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE149;9.280923121;48.2557043;Gammertingen;8437031.0;72501.0;;Baden-Württemberg;1950-01-15;;low voltage;;Gammertinger Energie- u. Wasserversorgung GmbH;10000066.0;TransnetBW
+0.205;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.00467066;49.2238143;Burglengenfeld;9376119.0;93133.0;;Brandenburg;1951-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.43887823;48.25896952;Dachau;9174115.0;85221.0;;Brandenburg;1951-01-01;;low voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.76;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.38891499;49.07195498;Brennberg;9375120.0;93179.0;;Brandenburg;1951-01-01;;medium voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+2.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.43887823;48.25896952;Dachau;9174115.0;85221.0;;Brandenburg;1951-01-01;;medium voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.12;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.43887823;48.25896952;Dachau;9174115.0;85221.0;;Brandenburg;1951-01-01;;low voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.056;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.37869133;48.26512721;Bergkirchen;9174113.0;85232.0;;Brandenburg;1951-01-01;;low voltage;;Stadtwerke Dachau;10000755.0;TenneT
+3.4;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE267;10.66391739;49.96286475;Eltmann;9674133.0;97483.0;;Brandenburg;1951-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.32085682;48.77024834;;9278144.0;84082.0;;Brandenburg;1951-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;Vohenstrauß;9374162.0;92648.0;;Brandenburg;1951-10-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.095;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.94194332;49.25493375;Schmidmühlen;9371148.0;92287.0;;Brandenburg;1951-11-30;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+3.6;Renewable energy;Hydro;;Run-of-river;Amprion;DE1;DE11;DE115;9.18433283;48.99781934;Hessigheim;8118028.0;74394.0;;Baden-Würtemberg;1952-01-01;;medium voltage;;Syna GmbH;10001495.0;Amprion
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.28287568;49.72284665;;9374121.0;92685.0;;Brandenburg;1952-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.8;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.2686068;49.52509353;Trausnitz;9376173.0;92555.0;;Brandenburg;1952-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0225;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;7.870769349;48.32668746;;8317065.0;77933.0;;Baden-Württemberg;1952-01-01;;low voltage;;Überlandwerk Mittelbaden GmbH & Co. KG;10001904.0;TransnetBW
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.03130095;49.83489415;;9377116.0;92681.0;;Brandenburg;1952-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.4;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.73395818;48.23840741;Neuötting;9171125.0;84524.0;;Brandenburg;1952-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0235;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.26915484;49.58712689999999;;9374132.0;92705.0;;Brandenburg;1952-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1952-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE265;10.27811467;50.25588006;;9672135.0;97702.0;;Brandenburg;1952-02-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.28287568;49.72284665;;9374121.0;92685.0;;Brandenburg;1952-04-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.5;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE27B;10.6416771;47.82168776;Biessenhofen;9777112.0;87640.0;;Bayern;1952-10-12;;medium voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;Pleystein;9374147.0;92714.0;;Brandenburg;1952-11-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.054;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;11.83656469;49.68398017;Grafenwöhr;9374124.0;92655.0;;Brandenburg;1952-12-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.75696598;47.75061207;Gmund;9182116.0;83703.0;;Brandenburg;1952-12-01;;low voltage;;Elektrizitätswerk Tegernsee Carl Miller KG;10000988.0;TenneT
+0.225;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;Brannenburg;9187120.0;83098.0;;Brandenburg;1952-12-31;;medium voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;Hohenburg;9371129.0;92277.0;;Brandenburg;1953-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1953-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1953-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.39953683;48.8494083;Grafenau;9272120.0;94481.0;;Brandenburg;1953-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;9.979838342;51.1436622;;6636014.0;37287.0;;Hamburg;1953-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;Moosbach;9374137.0;92709.0;;Brandenburg;1953-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.078816837;48.34154775;;8317146.0;77736.0;;Baden-Württemberg;1953-01-01;;low voltage;;Überlandwerk Mittelbaden GmbH & Co. KG;10001904.0;TransnetBW
+0.36;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11A;9.762847452;49.12496191;Schwäbisch Hall;8127076.0;74523.0;;Baden-Württemberg;1953-01-01;;medium voltage;;Stadtwerke Schwäbisch Hall GmbH;10000349.0;TransnetBW
+0.7;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.37869133;48.26512721;Bergkirchen;9174113.0;85232.0;;Brandenburg;1953-01-01;;medium voltage;;Stadtwerke Dachau;10000755.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.68841412;48.73028682;;9272129.0;94118.0;;Brandenburg;1953-01-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.47;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA1;DEA1A;7.277940442;51.23082501;Wuppertal;5124000.0;42399.0;;Nordrhein-Westfalen;1953-02-14;;low voltage;;WSW Netz GmbH;10001781.0;Amprion
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21C;11.25271537;48.23530271;;9179134.0;82216.0;;Brandenburg;1953-02-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;;9187120.0;83098.0;;Brandenburg;1953-06-01;;low voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.19;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1953-12-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE221;12.09544345;48.5289299;Landshut;9261000.0;84034.0;;Brandenburg;1953-12-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0184;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1954-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.029;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.33220458;48.91390327;;9375201.0;93104.0;;Brandenburg;1954-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.03130095;49.83489415;Erbendorf;9377116.0;92681.0;;Brandenburg;1954-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.18344206;49.10452105;Bayerisch Eisenstein;9276115.0;94252.0;;Brandenburg;1954-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0365;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.24314295;49.20780579;Nittenau;9376149.0;93149.0;;Brandenburg;1954-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.67651744;47.80871639;Siegsdorf;9189145.0;83313.0;;Brandenburg;1954-01-02;;low voltage;;Elektrizitätsgenossenschaft Vogling & Angrenzer eG;10000782.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE918;9.507071214;51.68769686;;6633027.0;37194.0;;Hamburg;1954-01-21;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE148;10.02091654;47.8183064;Leutkirch;8436055.0;88299.0;;Baden-Württemberg;1954-04-01;;low voltage / medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.85499264;49.30860992;Furth im Wald;9372126.0;93437.0;;Brandenburg;1954-05-01;;low voltage;;Stadtwerke Furth im Wald GmbH & Co. KG;10000554.0;TenneT
+0.0099;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.98060799;49.14648001;;9375156.0;93183.0;;Brandenburg;1954-07-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.052;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.49052853;49.19502477;Roding;9372153.0;93426.0;;Brandenburg;1954-07-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.51371454;49.33851314;;9373153.0;92367.0;;Brandenburg;1954-07-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0315;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;Brannenburg;9187120.0;83098.0;;Brandenburg;1954-10-26;;low voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.0141;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1954-10-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.44743444;49.3509705;;9373113.0;92348.0;;Brandenburg;1954-11-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.33063318;49.38935837;Schwarzhofen;9376164.0;92447.0;;Brandenburg;1954-11-22;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11B;9.893239208;49.47318422;Elpersheim;8128126.0;97990.0;;Baden-Württemberg;1954-12-08;;low voltage / medium voltage;;Hermann Geuder e.K. Elektrizitätswerk;10000334.0;TransnetBW
+0.3;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE125;8.636777832;49.42730151;Heidelberg;8221000.0;69123.0;;Baden-Württemberg;1955-01-01;;medium voltage;;Stadtwerke Heidelberg Netze GmbH;10003223.0;TransnetBW
+0.035;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.89776741;49.07524701;Laaber;9375162.0;93164.0;;Brandenburg;1955-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88469107;49.16267052;Bad Kötzting;9372137.0;93444.0;;Brandenburg;1955-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.15687994;49.8110398;Windischeschenbach;9374168.0;92670.0;;Brandenburg;1955-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.432;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11A;9.762847452;49.12496191;Schwäbisch Hall;8127076.0;74523.0;;Baden-Württemberg;1955-01-01;;medium voltage;;Stadtwerke Schwäbisch Hall GmbH;10000349.0;TransnetBW
+0.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE918;10.09869102;51.66014303;Katlenburg-Lindau - Katlenburg;3155007.0;37191.0;;Niedersachsen;1955-01-01;;low voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.10920566;49.15834381;Lohberg;9372178.0;93470.0;;Brandenburg;1955-01-01;;low voltage;;EVU Späth e.K.;10001650.0;TenneT
+0.0675;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE216;11.53476787;47.77289624;Bad Tölz;9173112.0;83646.0;;Brandenburg;1955-01-01;;low voltage / medium voltage;;Stadtwerke Bad Tölz GmbH;10001412.0;TenneT
+0.62;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE27C;10.59399679;48.00071431;Bad Wörishofen;9778116.0;86825.0;;Bayern;1955-01-06;;medium voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.20378429;49.50145427;Pfreimd;9376153.0;92536.0;;Brandenburg;1955-02-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.84433458;49.22530870000001;;9373134.0;92366.0;;Brandenburg;1955-03-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.4663824;47.71900735;Unterwössen;9189160.0;83246.0;;Brandenburg;1955-03-31;;low voltage;;Elektrizitätswerk Unterwössen Döllerer & Greimel Netz GmbH & Co. KG;10001313.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.10051543;49.62244556;Etzenricht;9374119.0;92694.0;;Brandenburg;1955-05-11;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.07;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE25C;11.00137038;48.8980375;Solnhofen;9577168.0;91807.0;;Brandenburg;1955-06-01;;low voltage;;N-ERGIE Netz GmbH;10001915.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.68421761;49.36326802;;9371132.0;92280.0;;Brandenburg;1955-07-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.072;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE146;9.776356288;48.18389102;Schemmerhofen;8426134.0;88433.0;;Baden-Württemberg;1955-08-10;;low voltage;;Netze BW GmbH;10000843.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE263;9.96386274;49.82634188;;9663000.0;97078.0;;Brandenburg;1955-09-19;;low voltage;;Mainfranken Netze GmbH;10003071.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;;9376147.0;92431.0;;Brandenburg;1955-10-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;;9376122.0;92542.0;;Brandenburg;1955-10-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;;9371129.0;92277.0;;Brandenburg;1955-12-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.072;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.11502244;49.756207;Kirchendemenreuth;9374128.0;92665.0;;Brandenburg;1955-12-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1955-12-28;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;Bernried;9271116.0;94505.0;;Brandenburg;1955-12-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+5.0;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE927;9.214201001;52.688852;Drakenburg;3256005.0;31623.0;;Niedersachsen;1956-01-01;;high voltage;;Avacon Netz GmbH;10010461.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76436195;49.08100486;Rattenberg;9278178.0;94371.0;;Brandenburg;1956-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.83751155;48.32439279;Schwaig;9177133.0;85445.0;;Brandenburg;1956-01-01;;medium voltage;;E-Werk Schweiger OHG;10000572.0;TenneT
+0.054;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1956-01-01;;low voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.045;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE148;9.940381713;47.70131822;Argenbühl;8436094.0;88260.0;;Baden-Württemberg;1956-01-01;;low voltage / medium voltage;;Netze BW GmbH;10000843.0;TransnetBW
+1.7;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE117;9.217425436;49.14034307;Heilbronn;8121000.0;74072.0;;Baden-Württemberg;1956-01-01;;medium voltage;;NHF Netzgesellschaft Heilbronn-Franken mbH;10003031.0;TransnetBW
+4.2;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE115;9.24358272;48.91281353;Ludwigsburg;8118048.0;71642.0;;Baden-Württemberg;1956-01-01;;medium voltage;;Stadtwerke Ludwigsburg-Kornwestheim GmbH;10003102.0;TransnetBW
+0.021;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE736;8.80040306;51.18176151;;6635016.0;35104.0;;Hamburg;1956-01-01;;low voltage;;Energie Waldeck-Frankenberg GmbH;10000523.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.87282724;49.2112635;Grafenwiesen;9372130.0;93479.0;;Brandenburg;1956-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.38377802;48.90619416;;9272143.0;94566.0;;Brandenburg;1956-01-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.765;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE272;10.62483932;47.88362047;Kaufbeuren;9762000.0;87600.0;;Bayern;1956-01-31;;medium voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.85082279;48.76505085;Biburg;9273119.0;93354.0;;Brandenburg;1956-02-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.765;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE272;10.62483932;47.88362047;Kaufbeuren;9762000.0;87600.0;;Bayern;1956-02-20;;medium voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.1184;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE219;11.5063124;48.99821519;Beilngries;9176114.0;92339.0;;Brandenburg;1956-04-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;Neunburg;9376147.0;92431.0;;Brandenburg;1956-04-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;;9371129.0;92277.0;;Brandenburg;1956-04-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1956-04-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81311659;48.55735319;;9277111.0;94424.0;;Brandenburg;1956-05-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0115;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.02147388;48.71378275;;9274176.0;84056.0;;Brandenburg;1956-05-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE233;12.13162955;49.66818345;;9374160.0;92637.0;;Brandenburg;1956-06-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1956-06-06;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.779;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.12204944;49.58438601;Luhe-Wildenau;9374133.0;92706.0;;Brandenburg;1956-06-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;Hohenburg;9371129.0;92277.0;;Brandenburg;1956-06-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1956-06-28;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;Röhrnbach;9272141.0;94133.0;;Brandenburg;1956-07-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.35595893;48.77665605;Saldenburg;9272142.0;94163.0;;Brandenburg;1956-07-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0105;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.94324082;49.31301206;;9372124.0;93458.0;;Brandenburg;1956-07-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.15319185;48.83229764;;9375196.0;84069.0;;Brandenburg;1956-07-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.85499264;49.30860992;;9372126.0;93437.0;;Brandenburg;1956-08-01;;low voltage;;Stadtwerke Furth im Wald GmbH & Co. KG;10000554.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.51371454;49.33851314;;9373153.0;92367.0;;Brandenburg;1956-08-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;;9371129.0;92277.0;;Brandenburg;1956-08-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21B;11.8069685;48.40710352;;9178140.0;85417.0;;Brandenburg;1956-08-16;;low voltage;;Überlandwerk Erding GmbH & Co. KG;10000167.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE216;11.53476787;47.77289624;;9173112.0;83646.0;;Brandenburg;1956-08-22;;low voltage;;Stadtwerke Bad Tölz GmbH;10001412.0;TenneT
+5.0;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA46;9.039402535;52.40294472;Petershagen;5770028.0;32469.0;;Nordrhein-Westfalen;1956-09-05;;high voltage;;TenneT;10000260.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.26915484;49.58712689999999;;9374132.0;92705.0;;Brandenburg;1956-09-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.54457826;48.81355858;Freyung;9272118.0;94078.0;;Brandenburg;1956-10-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.21171935;49.77327601;;9374150.0;92715.0;;Brandenburg;1956-10-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.38472784;49.345465;;9376147.0;92431.0;;Brandenburg;1956-10-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.65;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.258901622;51.3465673;Meschede;5958032.0;59872.0;;Nordrhein-Westfalen;1956-11-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+1.5;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA57;8.258901622;51.3465673;Meschede;5958032.0;59872.0;;Nordrhein-Westfalen;1956-11-01;;medium voltage;;Westnetz GmbH;10003764.0;Amprion
+0.0115;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;;9276144.0;94234.0;;Brandenburg;1956-11-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.44743444;49.3509705;;9373113.0;92348.0;;Brandenburg;1956-11-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.0;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED43;12.9779191;50.99245131;Kriebstein;14522300.0;9648.0;;Sachsen;1956-12-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;;9374137.0;92709.0;;Brandenburg;1956-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.12204944;49.58438601;Luhe-Wildenau;9374133.0;92706.0;;Brandenburg;1956-12-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58344833;49.36214538;;9373140.0;92283.0;;Brandenburg;1957-01-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0624;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.09568484;48.80922239;Auerbach;9271113.0;94530.0;;Brandenburg;1957-01-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.50538515;49.43379041;;9376178.0;92559.0;;Brandenburg;1957-01-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.17216649;49.07324671;;9375208.0;93173.0;;Brandenburg;1957-02-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;;9374137.0;92709.0;;Brandenburg;1957-02-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.032;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.26915484;49.58712689999999;Leuchtenberg;9374132.0;92705.0;;Brandenburg;1957-03-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.85082279;48.76505085;;9273172.0;93354.0;;Brandenburg;1957-03-08;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;;9376148.0;92545.0;;Brandenburg;1957-03-22;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0116;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE27;DE275;11.12363072;48.44235118;;9771113.0;86551.0;;Brandenburg;1957-04-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.90694568;49.02964328;Deuerling;9375127.0;93180.0;;Brandenburg;1957-04-26;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.779;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.54457826;48.81355858;Freyung;9272118.0;94078.0;;Brandenburg;1957-04-30;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3G;7.611189157;49.58345554;Oberweiler-Tiefenbach;7336105.0;67752.0;;Rheinland-Pfalz;1957-05-10;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.24;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE734;9.451500643;51.62998349;Bad Karlshafen;6633002.0;34385.0;;Hamburg;1957-06-01;;medium voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.046;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.29682799;49.41973916;Altendorf;9376112.0;92540.0;;Brandenburg;1957-06-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1957-06-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.031;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;Niedermurach;9376148.0;92545.0;;Brandenburg;1957-07-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE724;8.754410839;50.91999407;;6534021.0;35083.0;;Hamburg;1957-07-05;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;;9376148.0;92545.0;;Brandenburg;1957-07-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0054;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;;9376148.0;92545.0;;Brandenburg;1957-08-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.400763;48.90409189;;9375171.0;93099.0;;Brandenburg;1957-08-19;;low voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.89776741;49.07524701;;9375162.0;93164.0;;Brandenburg;1957-08-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;Waldmünchen;9372171.0;93449.0;;Brandenburg;1957-08-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1957-09-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1957-09-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1957-09-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.15319185;48.83229764;;9375196.0;84069.0;;Brandenburg;1957-09-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.4515954;49.22487129;;9373159.0;92369.0;;Brandenburg;1957-09-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.093;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.52121158;48.667723;Büchlberg;9275119.0;94124.0;;Brandenburg;1957-09-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA44;9.118412187;51.80321462;;5762028.0;33039.0;;Nordrhein-Westfalen;1957-10-01;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;;9374137.0;92709.0;;Brandenburg;1957-10-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1957-10-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.6114236;48.22904495;Teising;9171131.0;84576.0;;Brandenburg;1957-11-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.063;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1B;7.823614995;50.64875967;Heuzert;7143240.0;57627.0;;Rheinland-Pfalz;1957-11-08;;low voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;Wegscheid;9275156.0;94110.0;;Brandenburg;1957-11-13;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;Dieterskirchen;9376122.0;92542.0;;Brandenburg;1957-11-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1957-11-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1957-12-04;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE71;DE71E;9.07728712;50.35913788;Ortenberg;6440019.0;63683.0;;Hamburg;1957-12-11;;low voltage;;ovag Netz GmbH;10001836.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;11.91201763;49.82645105;;9377128.0;95506.0;;Brandenburg;1957-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.81417714;48.95875971;;9278171.0;94366.0;;Brandenburg;1957-12-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.26849019;49.94130224;;9377141.0;95666.0;;Brandenburg;1957-12-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.63802966;47.73004915;Ruhpolding;9189140.0;83324.0;;Brandenburg;1958-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.11;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1958-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1958-01-01;;low voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373143.0;92331.0;;Brandenburg;1958-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.327378104;48.53607586;;8237004.0;72270.0;;Baden-Württemberg;1958-01-01;;low voltage;;Gemeindewerke Baiersbronn;10001510.0;TransnetBW
+0.043;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.99321409;49.18804978;Arrach;9372113.0;93474.0;;Brandenburg;1958-01-01;;low voltage;;EW Geiger GmbH;10001115.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1958-01-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;;9189152.0;84529.0;;Brandenburg;1958-02-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.4870739;49.12190416;;9373112.0;92334.0;;Brandenburg;1958-02-12;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373151.0;92331.0;;Brandenburg;1958-02-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0295;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1958-02-19;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0425;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1958-02-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.20629145;49.39663473;Schwarzach;9376162.0;92548.0;;Brandenburg;1958-03-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;11.89439468;49.78598074;;9374148.0;92724.0;;Brandenburg;1958-03-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1958-03-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0162;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.21708857;48.55857061;;9275138.0;94496.0;;Brandenburg;1958-03-18;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.08116072;47.73089207;;9187120.0;83098.0;;Brandenburg;1958-03-25;;low voltage;;Wendelsteinbahn Verteilnetz GmbH;10001691.0;TenneT
+0.0095;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.96754754;48.55059742;;9277126.0;84381.0;;Brandenburg;1958-04-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1958-04-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.029;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.29682799;49.41973916;;9376112.0;92540.0;;Brandenburg;1958-05-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.59736272;48.65027558;;9279125.0;94437.0;;Brandenburg;1958-05-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DEF;DEF0;DEF0C;9.607465308;54.46041128;;1059078.0;24884.0;;Saarland;1958-06-01;;low voltage;;Schleswig-Holstein Netz AG;10003299.0;TenneT
+0.5;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB21;6.696566235;49.73638933;Trier;7211000.0;54296.0;;Rheinland-Pfalz;1958-06-01;;medium voltage;;SWT Stadtwerke Trier Versorgungs-GmbH;10001285.0;Amprion
+0.0063;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.14041223;48.73728984;;9274153.0;84088.0;;Brandenburg;1958-06-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64212448;48.57457845;;9279134.0;94419.0;;Brandenburg;1958-06-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.6215583;48.31458587;;9171127.0;84568.0;;Brandenburg;1958-06-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1958-06-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.094;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.82437965;48.63965892;Eichendorf;9279113.0;94428.0;;Brandenburg;1958-06-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.99673361;48.68845974;Osterhofen;9271141.0;94486.0;;Brandenburg;1958-06-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;;9372171.0;93449.0;;Brandenburg;1958-06-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1958-06-25;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;9.942743214;51.50920631;;3159016.0;37083.0;;Niedersachsen;1958-06-29;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE734;9.520832263;51.50614361;Hofgeismar;6633013.0;34369.0;;Hamburg;1958-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.4832319;49.89084917;;9377139.0;95695.0;;Brandenburg;1958-07-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.71499803;48.29653246;;9171129.0;84571.0;;Brandenburg;1958-08-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.105;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.54457826;48.81355858;Freyung;9272118.0;94078.0;;Brandenburg;1958-08-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1958-08-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.61028534;48.20356888;;9171133.0;84577.0;;Brandenburg;1958-08-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.072;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.99673361;48.68845974;Osterhofen;9271141.0;94486.0;;Brandenburg;1958-08-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;;9374137.0;92709.0;;Brandenburg;1958-09-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE219;11.5063124;48.99821519;;9176114.0;92339.0;;Brandenburg;1958-09-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE735;9.275186088;51.04576061;;6634001.0;34582.0;;Hamburg;1958-09-10;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.82437965;48.63965892;Eichendorf;9279113.0;94428.0;;Brandenburg;1958-09-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88469107;49.16267052;Bad Kötzting;9372137.0;93444.0;;Brandenburg;1958-09-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0135;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1958-09-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.36461502;48.63596243;Tiefenbach;9275151.0;94113.0;;Brandenburg;1958-09-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;;9376122.0;92542.0;;Brandenburg;1958-10-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;13.12362373;48.41080611;Bayerbach;9277112.0;94137.0;;Brandenburg;1958-10-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.225;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;13.12362373;48.41080611;Bayerbach;9277112.0;94137.0;;Brandenburg;1958-11-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.91548054;48.85470814;Metten;9271132.0;94526.0;;Brandenburg;1958-11-11;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.072;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;Lupburg;9373143.0;92331.0;;Brandenburg;1958-11-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.41;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;Röhrnbach;9272141.0;94133.0;;Brandenburg;1958-11-12;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.00684839;49.91906995;Pullenreuth;9377148.0;95704.0;;Brandenburg;1958-11-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;;9376148.0;92545.0;;Brandenburg;1958-11-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.053;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.94327379;49.01903393;Nittendorf;9375175.0;93152.0;;Brandenburg;1958-11-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1958-12-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1958-12-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.059;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.03130095;49.83489415;Erbendorf;9377116.0;92681.0;;Brandenburg;1958-12-05;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.62723824;48.64982329999999;;9275126.0;94051.0;;Brandenburg;1958-12-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.68421761;49.36326802;;9371132.0;92280.0;;Brandenburg;1958-12-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.21708857;48.55857061;;9275138.0;94496.0;;Brandenburg;1958-12-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.316;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE139;7.834978407;47.68327663;Hausen;8336036.0;79688.0;;Baden-Württemberg;1958-12-15;;low voltage;;ED Netze GmbH;10001411.0;TransnetBW
+0.225;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;Schönsee;9376160.0;92539.0;;Brandenburg;1958-12-15;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.32833379;49.6810811;;9374165.0;92727.0;;Brandenburg;1958-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.013;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.40158626;49.70870312;;9374123.0;92697.0;;Brandenburg;1958-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.10230945;49.8417018;;9377132.0;92703.0;;Brandenburg;1958-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;11.92967855;49.86481292;;9377129.0;95478.0;;Brandenburg;1958-12-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.11;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.94327379;49.01903393;Nittendorf;9375175.0;93152.0;;Brandenburg;1958-12-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.26849019;49.94130224;;9377141.0;95666.0;;Brandenburg;1958-12-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.25;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;Röhrnbach;9272141.0;94133.0;;Brandenburg;1959-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.294;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.12669271;49.38344246;Schwarzenfeld;9376163.0;92521.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;;9276116.0;94253.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373151.0;92331.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;;9374137.0;92709.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;Schönsee;9376160.0;92539.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;;9374147.0;92714.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;;9372171.0;93449.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.085;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.98111485;49.13259798;Arnbruck;9276113.0;93471.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.78536283;49.61183867;;9371156.0;92249.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE217;11.55130967;48.32021921;Haimhausen;9174121.0;85778.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;E-Werke Haniel Haimhausen OHG;10000813.0;TenneT
+0.043;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.40158626;49.70870312;Georgenberg;9374123.0;92697.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.3337219;49.62412251;;9374162.0;92648.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.046;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.71444648;48.65604347;Landau;9279122.0;94405.0;;Brandenburg;1959-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.04527528;49.20949583;Lam;9372138.0;93462.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0096;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.47732336;48.91143359;;9272146.0;94556.0;;Brandenburg;1959-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.076;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.82437965;48.63965892;Eichendorf;9279113.0;94428.0;;Brandenburg;1959-01-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1959-01-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.4870739;49.12190416;;9373112.0;92334.0;;Brandenburg;1959-02-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.94324082;49.31301206;;9372124.0;93458.0;;Brandenburg;1959-02-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.82790514;48.72887644;;9273177.0;93358.0;;Brandenburg;1959-02-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.65991089;49.13146014;;9372164.0;93455.0;;Brandenburg;1959-03-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;12.05847005;48.84568033;;9273141.0;84085.0;;Brandenburg;1959-03-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;;9372171.0;93449.0;;Brandenburg;1959-04-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;Wegscheid;9275156.0;94110.0;;Brandenburg;1959-04-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE918;9.682837719;51.64644271;;3155012.0;37170.0;;Niedersachsen;1959-04-09;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.64551101;49.08873767;;9373115.0;92363.0;;Brandenburg;1959-04-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.085;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;9.946114946;51.42535742;Friedland;3159013.0;37133.0;;Niedersachsen;1959-04-23;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3K;7.83089397;49.09081851;Bobenthal;7340033.0;76891.0;;Rheinland-Pfalz;1959-05-12;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.24580801;49.11791851;;9375119.0;93170.0;;Brandenburg;1959-05-12;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3G;7.611189157;49.58345554;Wolfstein;7336105.0;67752.0;;Rheinland-Pfalz;1959-05-12;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.175;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3G;7.611189157;49.58345554;Wolfstein;7336105.0;67752.0;;Rheinland-Pfalz;1959-05-12;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1959-05-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.41052123;49.80548215;;9377112.0;95671.0;;Brandenburg;1959-06-11;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0095;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.12204944;49.58438601;;9374133.0;92706.0;;Brandenburg;1959-06-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42571768;49.57269958;Moosbach;9374137.0;92709.0;;Brandenburg;1959-06-22;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA44;9.17984388;51.70887768;;5762016.0;33034.0;;Nordrhein-Westfalen;1959-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0128;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.96754754;48.55059742;;9277126.0;84381.0;;Brandenburg;1959-07-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.68355043;49.00026296;;9278134.0;94354.0;;Brandenburg;1959-08-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.96754754;48.55059742;;9277126.0;84381.0;;Brandenburg;1959-08-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.21708857;48.55857061;;9275138.0;94496.0;;Brandenburg;1959-08-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.81470668;49.1676278;Blaibach;9372115.0;93476.0;;Brandenburg;1959-08-20;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1959-09-03;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.57457093;49.43894439;;9372163.0;93464.0;;Brandenburg;1959-09-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.047;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.87282724;49.2112635;Grafenwiesen;9372130.0;93479.0;;Brandenburg;1959-09-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.043;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64069732;48.69949744;Pilsting;9279132.0;94431.0;;Brandenburg;1959-09-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.35761307;49.88853001;;9377154.0;95643.0;;Brandenburg;1959-09-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.062;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.63390802;48.84799895;Hinterschmiding;9272126.0;94146.0;;Brandenburg;1959-09-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE926;9.49365574;51.86297718;Bevern;3255002.0;37639.0;;Niedersachsen;1959-10-12;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.18455341;49.90662567;;9377159.0;95676.0;;Brandenburg;1959-10-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.78652123;49.36674051;;9371154.0;92289.0;;Brandenburg;1959-10-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.095;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.77564191;48.7946258;Neustadt;9273152.0;93333.0;;Brandenburg;1959-10-17;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.40158626;49.70870312;;9374123.0;92697.0;;Brandenburg;1959-10-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.00754;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;10.2368185;51.58303556;;3159025.0;37434.0;;Niedersachsen;1959-10-20;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81311659;48.55735319;;9277111.0;94424.0;;Brandenburg;1959-11-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.276;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.62723824;48.64982329999999;Hauzenberg;9275126.0;94051.0;;Brandenburg;1959-11-04;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1959-11-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;11.97305215;49.77390985;;9374149.0;92690.0;;Brandenburg;1959-11-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0095;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51754911;48.75563542;;9272141.0;94133.0;;Brandenburg;1959-11-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0088;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE732;9.992500682;50.53242097;;6631012.0;36115.0;;Hamburg;1959-11-30;;low voltage;;Überlandwerk Rhön GmbH;10000283.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.98069242;48.90269932;;9271122.0;94539.0;;Brandenburg;1959-12-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.42098298;48.48687135;Gerzen;9274135.0;84175.0;;Brandenburg;1959-12-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.063;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE216;11.53476787;47.77289624;Bad Tölz;9173112.0;83646.0;;Brandenburg;1959-12-14;;low voltage;;Stadtwerke Bad Tölz GmbH;10001412.0;TenneT
+0.042;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.82437965;48.63965892;Eichendorf;9279113.0;94428.0;;Brandenburg;1959-12-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.316543;49.79587315;;9377146.0;95703.0;;Brandenburg;1959-12-17;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.065;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1B;7.81055511;50.70306969;Atzelgift;7143205.0;57629.0;;Rheinland-Pfalz;1959-12-23;;low voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.0395;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.81417714;48.95875971;Perasdorf;9278171.0;94366.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;Oberried;8315084.0;79254.0;;Baden-Württemberg;1960-01-01;;low voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21E;11.05716114;47.95300822;;9181114.0;86911.0;;Brandenburg;1960-01-01;;low voltage;;Elektrizitätswerk Diessen Stadler GmbH;10000221.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.94327379;49.01903393;Nittendorf;9375175.0;93152.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE132;7.962248687;47.90916839;;8315084.0;79254.0;;Baden-Württemberg;1960-01-01;;low voltage;;bnNETZE GmbH;10003005.0;TransnetBW
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.93896029;49.3049658;Rieden;9371146.0;92286.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.32987572;49.54011576;;9374159.0;92723.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.81710478;49.26361839;;9372112.0;93473.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0035;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.94323725;47.74296137;;9182114.0;83730.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0145;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.00110629;49.25563504;;9372144.0;93453.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.82439971;49.30878862;;9371129.0;92277.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.68029684;48.57989069;;9275153.0;94107.0;;Brandenburg;1960-01-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.227;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.80691996;49.01197365;Sankt Englmar;9278184.0;94379.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.053;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.03963854;49.10292578;Drachselsried;9276120.0;94256.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.49;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE135;8.612577801;48.36431634;Sulz;8325057.0;72172.0;;Baden-Württemberg;1960-01-01;;medium voltage;;Stromversorgung Sulz GmbH;10000497.0;TransnetBW
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58344833;49.36214538;;9373140.0;92283.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21E;11.05716114;47.95300822;Diessen;9181114.0;86911.0;;Brandenburg;1960-01-01;;low voltage;;Elektrizitätswerk Diessen Stadler GmbH;10000221.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21E;11.05716114;47.95300822;;9181114.0;86911.0;;Brandenburg;1960-01-01;;low voltage;;Elektrizitätswerk Diessen Stadler GmbH;10000221.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.30577522;48.89391409;Eppenschlag;9272116.0;94536.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.66993395;49.28776026;Waffenbrunn;9372168.0;93494.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21E;11.05716114;47.95300822;Diessen;9181114.0;86911.0;;Brandenburg;1960-01-01;;low voltage;;Elektrizitätswerk Diessen Stadler GmbH;10000221.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.66892096;48.96935637;;9278151.0;94360.0;;Brandenburg;1960-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;;9374147.0;92714.0;;Brandenburg;1960-01-02;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;11.89439468;49.78598074;;9374148.0;92724.0;;Brandenburg;1960-01-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;11.06433166;49.72250583;Forchheim;9474126.0;91301.0;;Brandenburg;1960-01-27;;low voltage;;Stadtwerke Forchheim GmbH;10000591.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.2686068;49.52509353;;9376173.0;92555.0;;Brandenburg;1960-02-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0097;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21N;11.02983039;47.86328359;;9190158.0;82405.0;;Brandenburg;1960-02-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1105;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.98060799;49.14648001;Kallmünz;9375156.0;93183.0;;Brandenburg;1960-02-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0128;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;12.05847005;48.84568033;;9273141.0;84085.0;;Brandenburg;1960-03-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.072;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.32376794;48.98402983;Frauenau;9276121.0;94258.0;;Brandenburg;1960-03-18;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.019;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.21160085;48.95015757;;9276139.0;94269.0;;Brandenburg;1960-04-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.028;Renewable energy;Hydro;;Run-of-river;Amprion;DE7;DE72;DE723;8.057805486;50.46058031;Hadamar;6533007.0;65589.0;;Hessen;1960-05-12;;low voltage;;Syna GmbH;10001495.0;Amprion
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE725;9.001624861;50.72799462;Homberg/Ohm;6535009.0;35315.0;;Hamburg;1960-05-25;;low voltage;;ovag Netz GmbH;10001836.0;TenneT
+0.039;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.93502317;49.20115597;Hohenwarth;9372135.0;93480.0;;Brandenburg;1960-06-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0178;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.76075087;48.75583417;;9272136.0;94089.0;;Brandenburg;1960-06-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.66452996;49.25790589;;9373167.0;92355.0;;Brandenburg;1960-06-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE724;8.692898786;50.74691924;;6534020.0;35096.0;;Hamburg;1960-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE24A;11.34119181;50.18777712;;9476185.0;96369.0;;Brandenburg;1960-07-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE734;9.291943606;51.48743265;;6633016.0;34396.0;;Hamburg;1960-07-01;;low voltage;;EAM Netz GmbH;10003990.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.70143986;48.46722595;;9277119.0;84326.0;;Brandenburg;1960-07-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0455;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.92202468;48.58108143;Roßbach;9277142.0;94439.0;;Brandenburg;1960-07-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.032;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;Bischofsmais;9276116.0;94253.0;;Brandenburg;1960-07-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0205;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.31062397;48.68000287;;9275111.0;94529.0;;Brandenburg;1960-08-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1B;7.912243662;50.55249147;Willmenrod;7143312.0;56459.0;;Rheinland-Pfalz;1960-09-02;;low voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373151.0;92331.0;;Brandenburg;1960-09-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;13.0730923;48.45053798;Bad Birnbach;9277113.0;84364.0;;Brandenburg;1960-09-19;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1960-09-22;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;Amprion;DE7;DE72;DE723;8.060851204;50.50416782;Elbtal;6533005.0;65627.0;;Hessen;1960-09-23;;low voltage;;Syna GmbH;10001495.0;Amprion
+0.057;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.52810902;48.52547852;Frontenhausen;9279115.0;84160.0;;Brandenburg;1960-09-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;;9276144.0;94234.0;;Brandenburg;1960-10-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;;9372171.0;93449.0;;Brandenburg;1960-10-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.97582776;49.00368278;;9276134.0;94265.0;;Brandenburg;1960-10-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.83673307;48.18376108;;9171112.0;84489.0;;Brandenburg;1960-10-12;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.52608093;49.57475804;;9374118.0;92693.0;;Brandenburg;1960-10-27;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81861264;48.42544041;;9277124.0;84332.0;;Brandenburg;1960-11-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.41926719;49.17678002;;9373146.0;92360.0;;Brandenburg;1960-11-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.031;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;Bischofsmais;9276116.0;94253.0;;Brandenburg;1960-11-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0275;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.09568484;48.80922239;;9271113.0;94530.0;;Brandenburg;1960-11-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.14920885;49.02780084;Langdorf;9276129.0;94264.0;;Brandenburg;1960-12-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.059;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.68029684;48.57989069;Untergriesbach;9275153.0;94107.0;;Brandenburg;1960-12-05;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.76075087;48.75583417;;9272136.0;94089.0;;Brandenburg;1960-12-08;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.00482306;48.97524354;;9276146.0;94239.0;;Brandenburg;1960-12-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.00684839;49.91906995;Pullenreuth;9377148.0;95704.0;;Brandenburg;1960-12-16;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.044;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.976526;49.04415099;Geiersthal;9276122.0;94244.0;;Brandenburg;1960-12-28;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.62723824;48.64982329999999;;9275126.0;94051.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.028;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE737;9.979838342;51.1436622;;6636014.0;37287.0;;Hamburg;1961-01-01;;low voltage;;Stadtwerke Eschwege GmbH;10000668.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.00482306;48.97524354;Ruhmannsfelden;9276142.0;94239.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.063;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;Waldkirchen;9272151.0;94065.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.42533968;48.46750463;;8237028.0;72250.0;;Baden-Württemberg;1961-01-01;;low voltage;;Stadtwerke Freudenstadt GmbH & Co. KG;10000555.0;TransnetBW
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.23620671;48.76279434;;9278148.0;84066.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.3;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.38891499;49.07195498;Brennberg;9375120.0;93179.0;;Brandenburg;1961-01-01;;medium voltage;;Elektrizitätswerk Wörth a.d. Donau Rupert Heider & Co. KG;10003233.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE259;11.2531598;49.34524063;Schwarzenbruck;9574157.0;90592.0;;Brandenburg;1961-01-01;;medium voltage;;Gemeindewerke Schwarzenbruck GmbH;10001853.0;TenneT
+0.065;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;10.19601188;51.78343874;Bad Grund - Eisdorf;3159002.0;37539.0;;Niedersachsen;1961-01-01;;low voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.06051229;48.58778602;Aldersbach;9275114.0;94501.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.30577522;48.89391409;Eppenschlag;9272116.0;94536.0;;Brandenburg;1961-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.52608093;49.57475804;;9374118.0;92693.0;;Brandenburg;1961-01-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE219;11.5063124;48.99821519;Beilngries;9176114.0;92339.0;;Brandenburg;1961-01-17;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.019;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.20832962;49.74057443;;9374158.0;92721.0;;Brandenburg;1961-01-23;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA45;8.959054569;52.12216236;;5766036.0;32689.0;;Nordrhein-Westfalen;1961-01-27;;low voltage;;Stadtwerke Lippe-Weser Service GmbH & Co. KG;10003999.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.11502244;49.756207;;9374128.0;92665.0;;Brandenburg;1961-02-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81861264;48.42544041;;9277124.0;84332.0;;Brandenburg;1961-02-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.013;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.96754754;48.55059742;;9277126.0;84381.0;;Brandenburg;1961-02-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.27;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;Waldkirchen;9272151.0;94065.0;;Brandenburg;1961-02-08;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.132;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.51819343;48.12611699;Engelsberg;9189115.0;84549.0;;Brandenburg;1961-02-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.62723824;48.64982329999999;;9275126.0;94051.0;;Brandenburg;1961-03-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.5385398;48.62963189999999;Gottfrieding;9279116.0;84177.0;;Brandenburg;1961-03-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.72567086;48.94690762;;9278139.0;94336.0;;Brandenburg;1961-03-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.57457093;49.43894439;Tiefenbach;9372163.0;93464.0;;Brandenburg;1961-04-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.83382959;48.71008024;;9271139.0;94562.0;;Brandenburg;1961-04-10;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81311659;48.55735319;Arnstorf;9277111.0;94424.0;;Brandenburg;1961-04-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.27933819;49.06631425;Lindberg;9276130.0;94227.0;;Brandenburg;1961-05-02;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1961-05-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.044;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.98069242;48.90269932;Grafling;9271122.0;94539.0;;Brandenburg;1961-06-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.77836475;48.69824296;Breitenberg;9275118.0;94139.0;;Brandenburg;1961-07-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1961-07-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.22303374;48.85969907;;9375182.0;93101.0;;Brandenburg;1961-07-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64212448;48.57457845;Reisbach;9279134.0;94419.0;;Brandenburg;1961-08-03;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.32376794;48.98402983;Frauenau;9276121.0;94258.0;;Brandenburg;1961-08-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.59531586;49.16697096;;9372158.0;93489.0;;Brandenburg;1961-09-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.42126332;49.64957166;Pleystein;9374147.0;92714.0;;Brandenburg;1961-09-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.92166863;48.39034448;;9177112.0;85459.0;;Brandenburg;1961-10-01;;low voltage;;Überlandwerk Erding GmbH & Co. KG;10000167.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.21160085;48.95015757;;9276139.0;94269.0;;Brandenburg;1961-10-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1961-10-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.52450151;49.27378766;;9372161.0;93491.0;;Brandenburg;1961-10-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.60344396;49.27628546;;9372146.0;93482.0;;Brandenburg;1961-10-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1961-11-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.21160085;48.95015757;;9276139.0;94269.0;;Brandenburg;1961-11-08;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.07;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.42098298;48.48687135;Schalkham;9274179.0;84175.0;;Brandenburg;1961-11-09;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.81417714;48.95875971;;9278171.0;94366.0;;Brandenburg;1961-12-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.32376794;48.98402983;;9276121.0;94258.0;;Brandenburg;1961-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.00482306;48.97524354;Gotteszell;9276123.0;94239.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.20378429;49.50145427;;9376153.0;92536.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.09568484;48.80922239;;9271113.0;94530.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.19315756;49.4464201;Nabburg;9376144.0;92507.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373151.0;92331.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.61028534;48.20356888;;9171133.0;84577.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.7516946;48.40719872;;9277116.0;84307.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.23620671;48.76279434;;9278148.0;84066.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.67676747;48.38958328;;9277151.0;84339.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.18456317;48.89946451;;9276126.0;94259.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;;9272151.0;94065.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.93502317;49.20115597;Hohenwarth;9372135.0;93480.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.62087439;48.397326;;9277133.0;84323.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;;9276116.0;94253.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.34;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE135;8.612577801;48.36431634;Sulz;8325057.0;72172.0;;Baden-Württemberg;1962-01-01;;medium voltage;;Stromversorgung Sulz GmbH;10000497.0;TransnetBW
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.07085725;48.76684678;;9271125.0;94491.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.003;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.06051229;48.58778602;Aldersbach;9275114.0;94501.0;;Brandenburg;1962-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.032;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.46123253;48.53362721;Aham;9274112.0;84168.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.22386404;49.85587654;;9377117.0;95685.0;;Brandenburg;1962-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.37090305;47.85343019;Prien;9187162.0;83209.0;;Brandenburg;1962-02-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE926;9.514734105;51.79414721;Holzminden;3255023.0;37603.0;;Niedersachsen;1962-03-21;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.90694568;49.02964328;;9375127.0;93180.0;;Brandenburg;1962-04-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE257;10.82561224;49.72089698;;9572135.0;91315.0;;Brandenburg;1962-05-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.35762034;49.44443903;;9376148.0;92545.0;;Brandenburg;1962-05-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.077;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1962-06-07;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.3;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.15545685;49.14570608;Regenstauf;9375190.0;93128.0;;Brandenburg;1962-06-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.06105097;49.73827369;;9374144.0;92711.0;;Brandenburg;1962-06-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.04636;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.03963854;49.10292578;Drachselsried;9276120.0;94256.0;;Brandenburg;1962-06-27;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.39316406;49.49684765;;9376171.0;92552.0;;Brandenburg;1962-06-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE736;8.556198446;50.98988343;;6635014.0;35116.0;;Hamburg;1962-07-01;;low voltage;;Energie Waldeck-Frankenberg GmbH;10000523.0;TenneT
+0.0046;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3B;8.045803537;49.78657379999999;Flonheim-Uffhofen;7331025.0;55237.0;;Rheinland-Pfalz;1962-07-01;;low voltage;;EWR Netz GmbH;10001416.0;Amprion
+0.0098;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE73;DE735;9.407479092;51.01862473;;6634009.0;34576.0;;Hamburg;1962-07-01;;low voltage;;KBG Kraftstrom-Bezugsgenossenschaft Homberg eG;10001070.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.52437279;49.34459126;;9372154.0;92444.0;;Brandenburg;1962-07-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.39177892;49.19888877;Walderbach;9372170.0;93194.0;;Brandenburg;1962-07-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91150478;48.97067365;;9276111.0;94250.0;;Brandenburg;1962-07-30;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.04527528;49.20949583;;9372138.0;93462.0;;Brandenburg;1962-08-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.11502244;49.756207;;9374128.0;92665.0;;Brandenburg;1962-08-16;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.11260883;49.07587001;;9276117.0;94249.0;;Brandenburg;1962-08-17;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.59531586;49.16697096;;9372158.0;93489.0;;Brandenburg;1962-09-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21F;11.8178612;47.75082036;Hausham;9182119.0;83734.0;;Brandenburg;1962-09-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.14;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE923;9.379806519;52.0178922;Emmerthal;3252005.0;31860.0;;Niedersachsen;1962-09-20;;low voltage;;GWS Stadtwerke Hameln GmbH;10001497.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64212448;48.57457845;;9279134.0;94419.0;;Brandenburg;1962-09-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.47732336;48.91143359;;9272146.0;94556.0;;Brandenburg;1962-09-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.033;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.47732336;48.91143359;Neuschönau;9272146.0;94556.0;;Brandenburg;1962-09-25;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.97582776;49.00368278;;9276134.0;94265.0;;Brandenburg;1962-10-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.55634979;49.51985496;;9376160.0;92539.0;;Brandenburg;1962-10-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.20242568;48.77580570000001;;9271149.0;94508.0;;Brandenburg;1962-10-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91150478;48.97067365;;9276111.0;94250.0;;Brandenburg;1962-10-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.18456317;48.89946451;;9276126.0;94259.0;;Brandenburg;1962-10-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.28287568;49.72284665;;9374121.0;92685.0;;Brandenburg;1962-10-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;Waldkirchen;9272151.0;94065.0;;Brandenburg;1962-11-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1962-11-08;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;13.1252592;48.85735697;;9271126.0;94551.0;;Brandenburg;1962-11-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.112;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.42486693;48.77688317;Perlesreut;9272138.0;94157.0;;Brandenburg;1962-11-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;11.99984882;48.54178316;Bruckberg;9274194.0;84079.0;;Brandenburg;1962-11-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1962-11-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;Amprion;DE7;DE71;DE71A;8.414353995;50.09699607;Hofheim;6436007.0;65719.0;;Hessen;1962-12-03;;low voltage;;Syna GmbH;10001495.0;Amprion
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.04527528;49.20949583;Lam;9372138.0;93462.0;;Brandenburg;1962-12-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.085;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.99673361;48.68845974;Osterhofen;9271141.0;94486.0;;Brandenburg;1962-12-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE26;DE26A;9.60208237;49.80267908;;9677154.0;97855.0;;Brandenburg;1962-12-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.33102434;48.83664022;Schönberg;9272147.0;94513.0;;Brandenburg;1962-12-17;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0375;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.68841412;48.73028682;Jandelsbrunn;9272129.0;94118.0;;Brandenburg;1962-12-19;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.03130095;49.83489415;Erbendorf;9377116.0;92681.0;;Brandenburg;1962-12-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0125;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.11260883;49.07587001;;9276117.0;94249.0;;Brandenburg;1962-12-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.68421761;49.36326802;;9371132.0;92280.0;;Brandenburg;1962-12-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE11B;10.05906228;49.46614292;;8119067.0;97993.0;;Baden-Württemberg;1963-01-01;;low voltage;;N-ERGIE Netz GmbH;10001915.0;TransnetBW
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE25B;11.01444186;49.20217927;;9576121.0;91166.0;;Brandenburg;1963-01-01;;low voltage;;Gemeindewerke Georgensgmünd;10000929.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.82127607;49.11753158;Beratzhausen;9375118.0;93176.0;;Brandenburg;1963-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE11;DE113;9.438571513;48.58482535;Owen;8116054.0;73277.0;;Baden-Württemberg;1963-01-01;;medium voltage;;C. Ensinger GmbH & Co. KG;10001032.0;TransnetBW
+0.0242;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.68841412;48.73028682;;9272129.0;94118.0;;Brandenburg;1963-01-08;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.58692451;48.12985889;Garching;9171117.0;84518.0;;Brandenburg;1963-01-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0137;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE71;DE71E;9.099603428;50.29057251;;6440004.0;63654.0;;Hamburg;1963-01-16;;low voltage;;ovag Netz GmbH;10001836.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1963-01-21;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1963-01-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1963-02-08;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.04527528;49.20949583;;9372138.0;93462.0;;Brandenburg;1963-02-18;;low voltage;;Markt Lam;10000503.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE923;9.606785649;52.06448679;;3252008.0;31020.0;;Niedersachsen;1963-02-20;;low voltage;;GWS Stadtwerke Hameln GmbH;10001497.0;TenneT
+0.054;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;Wegscheid;9275156.0;94110.0;;Brandenburg;1963-03-07;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;Bischofsmais;9276116.0;94253.0;;Brandenburg;1963-03-12;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1B;7.852187235;50.67930512;Nister;7143276.0;57645.0;;Rheinland-Pfalz;1963-03-15;;medium voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;11.99984882;48.54178316;;9274194.0;84079.0;;Brandenburg;1963-03-26;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.04527528;49.20949583;Lam;9372138.0;93462.0;;Brandenburg;1963-04-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.235;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.11260883;49.07587001;Bodenmais;9276117.0;94249.0;;Brandenburg;1963-04-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.32206609;49.24221195;;9376117.0;92436.0;;Brandenburg;1963-04-02;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.52437279;49.34459126;;9372154.0;92444.0;;Brandenburg;1963-04-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.15545685;49.14570608;Regenstauf;9375190.0;93128.0;;Brandenburg;1963-04-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB24;6.598047519;50.3338046;Jünkerath;7233035.0;54584.0;;Rheinland-Pfalz;1963-04-18;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.52608093;49.57475804;;9374118.0;92693.0;;Brandenburg;1963-04-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.59531586;49.16697096;;9372158.0;93489.0;;Brandenburg;1963-04-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3K;7.83089397;49.09081851;Rumbach;7340033.0;76891.0;;Rheinland-Pfalz;1963-05-16;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.025;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3K;7.356728115;49.1858301;Hornbach;7340211.0;66500.0;;Rheinland-Pfalz;1963-05-16;;low voltage;;Pfalzwerke Netz AG;10002992.0;Amprion
+0.1175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;Viechtach;9276144.0;94234.0;;Brandenburg;1963-05-20;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.1;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;Viechtach;9276144.0;94234.0;;Brandenburg;1963-05-22;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88136047;49.23785176;;9372151.0;93485.0;;Brandenburg;1963-05-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.025;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.30298421;48.46524695;;9275145.0;94099.0;;Brandenburg;1963-05-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.087;Renewable energy;Hydro;;Run-of-river;TenneT;DE7;DE72;DE725;9.37614078;50.64513798;Lauterbach;6535011.0;36341.0;;Hamburg;1963-06-06;;low voltage / medium voltage;;ovag Netz GmbH;10001836.0;TenneT
+0.0092;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.20378429;49.50145427;;9376153.0;92536.0;;Brandenburg;1963-06-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0133;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.65883829;49.2131694;;9372116.0;93413.0;;Brandenburg;1963-06-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.3402293;48.43881755;;9274184.0;84137.0;;Brandenburg;1963-06-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.27208907;48.84993772;;9272128.0;94548.0;;Brandenburg;1963-06-22;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.77528698;49.14829520000001;;9372143.0;93468.0;;Brandenburg;1963-06-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.68866614;49.38087061;;9372171.0;93449.0;;Brandenburg;1963-06-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.31062397;48.68000287;;9275111.0;94529.0;;Brandenburg;1963-07-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.09;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.39650212;48.72961255;Tittling;9275152.0;94104.0;;Brandenburg;1963-07-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.81763035;49.09891993;;9276135.0;94267.0;;Brandenburg;1963-07-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.054;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE923;9.379806519;52.0178922;Emmerthal;3252005.0;31860.0;;Niedersachsen;1963-08-28;;low voltage;;GWS Stadtwerke Hameln GmbH;10001497.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;11.20065834;49.73777267;;9474161.0;91362.0;;Brandenburg;1963-09-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1963-09-14;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0074;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1963-09-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.92202468;48.58108143;;9277142.0;94439.0;;Brandenburg;1963-09-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.62087439;48.397326;;9277133.0;84323.0;;Brandenburg;1963-10-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.00482306;48.97524354;;9276142.0;94239.0;;Brandenburg;1963-10-03;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.52608093;49.57475804;;9374118.0;92693.0;;Brandenburg;1963-10-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0305;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.67651744;47.80871639;Siegsdorf;9189145.0;83313.0;;Brandenburg;1963-10-10;;low voltage;;Elektrizitätsgenossenschaft Vogling & Angrenzer eG;10000782.0;TenneT
+0.065;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.03130095;49.83489415;Erbendorf;9377116.0;92681.0;;Brandenburg;1963-10-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76436195;49.08100486;;9278178.0;94371.0;;Brandenburg;1963-10-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1963-10-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.041;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.67202933;48.22349666;Altötting;9171111.0;84503.0;;Brandenburg;1963-10-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.15309485;49.54396129;;9376150.0;92533.0;;Brandenburg;1963-11-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.04553256;48.48440720000001;Eching;9274124.0;84174.0;;Brandenburg;1963-11-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.72567086;48.94690762;;9278139.0;94336.0;;Brandenburg;1963-11-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.023;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.92202468;48.58108143;;9277142.0;94439.0;;Brandenburg;1963-11-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.58692451;48.12985889;Garching;9171117.0;84518.0;;Brandenburg;1963-11-29;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.3402293;48.43881755;;9274184.0;84137.0;;Brandenburg;1963-12-11;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0092;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.69230512;48.97272183;;9273164.0;93339.0;;Brandenburg;1963-12-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.83401081;48.91876497;;9278187.0;94374.0;;Brandenburg;1963-12-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.014;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.28287568;49.72284665;;9374121.0;92685.0;;Brandenburg;1963-12-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.69230512;48.97272183;;9273164.0;93339.0;;Brandenburg;1963-12-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.69230512;48.97272183;;9273164.0;93339.0;;Brandenburg;1963-12-20;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.052;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE246;11.32855626;49.84589685;Waischenfeld;9472197.0;91344.0;;Brandenburg;1963-12-31;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.97290104;48.77097716;;9273165.0;93352.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.038;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;Viechtach;9276144.0;94234.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;12.17216649;49.07324671;;9375208.0;93173.0;;Brandenburg;1964-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.75;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED4;DED44;12.19257328;50.55698896;Pöhl;14523330.0;8543.0;;Sachsen;1964-01-01;;medium voltage;;Mitteldeutsche Netzgesellschaft Strom mbH;10001645.0;50Hertz
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.98111485;49.13259798;;9276113.0;93471.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.73491752;49.16453468;;9373151.0;92331.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.91673503;49.09257952;;9276144.0;94234.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.92202468;48.58108143;;9277142.0;94439.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.81763035;49.09891993;;9276135.0;94267.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.98111485;49.13259798;;9276113.0;93471.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.06;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.83751155;48.32439279;Schwaig;9177133.0;85445.0;;Brandenburg;1964-01-01;;low voltage / medium voltage;;E-Werk Schweiger OHG;10000572.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE14;DE142;8.948272741;48.46313452;;8416036.0;72108.0;;Baden-Württemberg;1964-01-01;;low voltage;;Energieversorgung Rottenburg am Neckar GmbH;10001877.0;TransnetBW
+0.3;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE212;11.52310155;48.0780476;München;9162000.0;81479.0;;Brandenburg;1964-01-01;;medium voltage;;SWM Infrastruktur GmbH & Co. KG;10001016.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE246;11.67286395;50.04890632;;9472116.0;95460.0;;Brandenburg;1964-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.054;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.31062397;48.68000287;Aicha;9275111.0;94529.0;;Brandenburg;1964-01-14;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0575;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1964-03-17;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.15687994;49.8110398;;9374168.0;92670.0;;Brandenburg;1964-03-26;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.59465083;48.91456911;;9272134.0;94151.0;;Brandenburg;1964-04-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.559;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.52121158;48.667723;Büchlberg;9275119.0;94124.0;;Brandenburg;1964-05-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0118;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.07978674;48.90984332;;9276116.0;94253.0;;Brandenburg;1964-05-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE24B;11.48527426;50.0264016;;9477142.0;95512.0;;Brandenburg;1964-05-14;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0147;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;11.99984882;48.54178316;;9274194.0;84079.0;;Brandenburg;1964-06-04;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.94324082;49.31301206;;9372124.0;93458.0;;Brandenburg;1964-06-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;12.158284;48.29027769;;9177115.0;84405.0;;Brandenburg;1964-06-12;;low voltage;;Stadtwerke Dorfen GmbH;10000712.0;TenneT
+0.165;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12C;8.42533968;48.46750463;Freudenstadt;8237028.0;72250.0;;Baden-Württemberg;1964-07-01;;low voltage;;Stadtwerke Freudenstadt GmbH & Co. KG;10000555.0;TransnetBW
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.61028534;48.20356888;;9171133.0;84577.0;;Brandenburg;1964-07-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.7;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE27C;10.6714968;48.03585728;Wiedergeltingen;9778216.0;86879.0;;Bayern;1964-07-31;;medium voltage;;Stadtwerke Bad Wörishofen;10001388.0;Amprion
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.81763035;49.09891993;;9276135.0;94267.0;;Brandenburg;1964-08-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0044;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1964-08-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0135;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1964-08-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1964-08-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.98111485;49.13259798;;9276113.0;93471.0;;Brandenburg;1964-08-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA46;9.039402535;52.40294472;;5770028.0;32469.0;;Nordrhein-Westfalen;1964-08-16;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.152;Renewable energy;Hydro;;Run-of-river;Amprion;DE2;DE27;DE27B;10.6416771;47.82168776;Biessenhofen;9777112.0;87640.0;;Bayern;1964-08-31;;low voltage;;Vereinigte Wertach-Elektrizitätswerke GmbH;10000140.0;Amprion
+0.082;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE246;11.52274918;49.98058271;Heinersreuth;9472150.0;95500.0;;Brandenburg;1964-09-01;;low voltage;;Stadtwerke Bayreuth Energie und Wasser GmbH;10000933.0;TenneT
+0.067;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.47732336;48.91143359;Neuschönau;9272146.0;94556.0;;Brandenburg;1964-09-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.89776741;49.07524701;;9375162.0;93164.0;;Brandenburg;1964-09-08;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.45329033;49.49084455;;9376151.0;92526.0;;Brandenburg;1964-09-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.035;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE923;9.379806519;52.0178922;Emmerthal;3252005.0;31860.0;;Niedersachsen;1964-09-21;;low voltage;;GWS Stadtwerke Hameln GmbH;10001497.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88469107;49.16267052;;9372137.0;93444.0;;Brandenburg;1964-09-21;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.016;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1964-09-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.69230512;48.97272183;;9273164.0;93339.0;;Brandenburg;1964-09-29;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0415;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.10920566;49.15834381;Lohberg;9372178.0;93470.0;;Brandenburg;1964-10-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.027;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.92202468;48.58108143;;9277142.0;94439.0;;Brandenburg;1964-10-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.04;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB18;7.69696121;50.64480145;Mudenbach;7143267.0;57614.0;;Rheinland-Pfalz;1964-11-03;;low voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.004;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.58110164;49.53302618;;9371140.0;92268.0;;Brandenburg;1964-11-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.104;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.10920566;49.15834381;Lohberg;9372178.0;93470.0;;Brandenburg;1964-11-06;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.018;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.14920885;49.02780084;;9276129.0;94264.0;;Brandenburg;1964-11-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.76075087;48.75583417;;9272136.0;94089.0;;Brandenburg;1964-11-18;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.058;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.36461502;48.63596243;Tiefenbach;9275151.0;94113.0;;Brandenburg;1964-11-24;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1964-11-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.037;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE238;11.98060799;49.14648001;Kallmünz;9375156.0;93183.0;;Brandenburg;1964-12-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.81311659;48.55735319;;9277111.0;94424.0;;Brandenburg;1964-12-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.19315756;49.4464201;;9376144.0;92507.0;;Brandenburg;1964-12-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.027;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.99321409;49.18804978;;9372113.0;93474.0;;Brandenburg;1965-01-01;;low voltage;;EW Geiger GmbH;10001115.0;TenneT
+0.032;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;Kollnburg;9276128.0;94262.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.017;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.88469107;49.16267052;;9372137.0;93444.0;;Brandenburg;1965-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0092;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.03963854;49.10292578;;9276120.0;94256.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.64;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE12;DE12B;8.865143832;48.94267403;Mühlacker;8236040.0;75417.0;;Baden-Württemberg;1965-01-01;;medium voltage;;Stadtwerke Mühlacker GmbH;10000346.0;TransnetBW
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.52121158;48.667723;;9275119.0;94124.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0165;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.14041223;48.73728984;;9274153.0;84088.0;;Brandenburg;1965-01-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.006;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21G;12.55025699;48.20508529;;9183136.0;84570.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE25;DE25B;11.11624285;49.23115989;Roth-Eckersmühlen;9576143.0;91154.0;;Brandenburg;1965-01-01;;low voltage;;Stadtwerke Roth;10000192.0;TenneT
+0.045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64212448;48.57457845;Reisbach;9279134.0;94419.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.43;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE92;DE925;9.841099253;52.24179202;Sarstedt;3254028.0;31157.0;;Niedersachsen;1965-01-01;;medium voltage;;Avacon Netz GmbH;10010461.0;TenneT
+0.0105;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.00110629;49.25563504;;9372144.0;93453.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE214;12.61028534;48.20356888;;9171133.0;84577.0;;Brandenburg;1965-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.4515954;49.22487129;;9373159.0;92369.0;;Brandenburg;1965-01-14;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.123;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE24;DE248;11.06433166;49.72250583;Forchheim;9474126.0;91301.0;;Brandenburg;1965-01-22;;low voltage;;Stadtwerke Forchheim GmbH;10000591.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB2;DEB25;6.853683891;49.83014389;Klüsserath;7235063.0;54340.0;;Rheinland-Pfalz;1965-01-25;;low voltage;;Westnetz GmbH;10003764.0;Amprion
+0.253;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;13.0730923;48.45053798;Bad Birnbach;9277113.0;84364.0;;Brandenburg;1965-02-01;;medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.62723824;48.64982329999999;;9275126.0;94051.0;;Brandenburg;1965-03-05;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.026;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.10920566;49.15834381;;9372178.0;93470.0;;Brandenburg;1965-03-29;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.58402109;49.02133707;;9373121.0;92345.0;;Brandenburg;1965-03-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1965-04-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.41926719;49.17678002;;9373146.0;92360.0;;Brandenburg;1965-04-22;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.041;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;13.27933819;49.06631425;Lindberg;9276130.0;94227.0;;Brandenburg;1965-05-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.009;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.94324082;49.31301206;;9372124.0;93458.0;;Brandenburg;1965-05-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;;9275156.0;94110.0;;Brandenburg;1965-05-25;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.76187454;48.98433462;;9278154.0;94362.0;;Brandenburg;1965-06-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+1.13;Renewable energy;Hydro;;Run-of-river;50Hertz;DED;DED2;DED2F;13.63474481;51.00745871;Freital;14628110.0;1705.0;;Sachsen;1965-07-01;;medium voltage;;ENSO NETZ GmbH;10001874.0;50Hertz
+0.0042;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE236;11.61895225;49.16042792;;9373160.0;92358.0;;Brandenburg;1965-07-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+4.4;Renewable energy;Hydro;;Run-of-river;Amprion;DEA;DEA5;DEA59;7.887354509;51.11935882;Attendorn;5966004.0;57439.0;;Nordrhein-Westfalen;1965-07-01;;medium voltage;;BIGGE ENERGIE GmbH & Co. KG;10003897.0;Amprion
+0.08;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA45;8.959054569;52.12216236;Kalletal;5766036.0;32689.0;;Nordrhein-Westfalen;1965-07-15;;low voltage;;Stadtwerke Lippe-Weser Service GmbH & Co. KG;10003999.0;TenneT
+0.034;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.4174323;49.40927958;Dieterskirchen;9376122.0;92542.0;;Brandenburg;1965-07-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.32206609;49.24221195;;9376117.0;92436.0;;Brandenburg;1965-09-13;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.71396971;47.97824066;;9189150.0;83373.0;;Brandenburg;1965-10-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0791;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;11.85803027;47.91721294;Feldkirchen-Westerham;9187130.0;83620.0;;Brandenburg;1965-11-09;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.31062397;48.68000287;;9275111.0;94529.0;;Brandenburg;1965-11-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB3;DEB3H;7.943973839;49.16091361;Wernersberg;7337083.0;76857.0;;Rheinland-Pfalz;1965-11-09;;low voltage;;Stadtwerke Annweiler;10000301.0;Amprion
+0.085;Renewable energy;Hydro;;Run-of-river;TransnetBW;DE1;DE13;DE134;8.158867165;48.55442408;Ottenhöfen;8317102.0;77883.0;;Baden-Württemberg;1965-11-15;;low voltage;;Überlandwerk Mittelbaden GmbH & Co. KG;10001904.0;TransnetBW
+0.015;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.5985742;48.73273755;;9272151.0;94065.0;;Brandenburg;1965-11-16;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0175;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1965-12-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1965-12-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.03;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1965-12-01;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.127;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.81470668;49.1676278;Blaibach;9372115.0;93476.0;;Brandenburg;1965-12-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.048;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.76802277;48.62233302;Wegscheid;9275156.0;94110.0;;Brandenburg;1965-12-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.40504418;48.8160663;;9278123.0;94333.0;;Brandenburg;1965-12-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.143713;48.50267621;;9275125.0;94542.0;;Brandenburg;1965-12-15;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE239;12.15309485;49.54396129;;9376150.0;92533.0;;Brandenburg;1965-12-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0088;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.143713;48.50267621;;9275125.0;94542.0;;Brandenburg;1965-12-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.2;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21K;12.01591182;47.87472388;Bad Aibling;9187117.0;83043.0;;Brandenburg;1965-12-31;;low voltage;;Stadtwerke Bad Aibling;10001093.0;TenneT
+0.12;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE91C;10.33739832;51.63262054;Herzberg - Scharzfeld;3159019.0;37412.0;;Niedersachsen;1966-01-01;;low voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.05;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.51314211;48.85693154;Hohenau;9272127.0;94545.0;;Brandenburg;1966-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;13.00110629;49.25563504;;9372144.0;93453.0;;Brandenburg;1966-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.043;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1966-01-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.25;Renewable energy;Hydro;;Run-of-river;TenneT;DE9;DE91;DE916;10.39641421;51.87814571;Goslar - Oker;3153017.0;38644.0;;Niedersachsen;1966-01-01;;medium voltage;;Harz Energie Netz GmbH;10002813.0;TenneT
+0.008;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;;9189152.0;84529.0;;Brandenburg;1966-01-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.088;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1966-01-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;Tittmoning;9189152.0;84529.0;;Brandenburg;1966-01-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.01;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;;9189152.0;84529.0;;Brandenburg;1966-01-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21M;12.73916845;48.04629928;;9189152.0;84529.0;;Brandenburg;1966-01-03;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.13;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE225;13.68841412;48.73028682;Jandelsbrunn;9272129.0;94118.0;;Brandenburg;1966-01-12;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.046;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22C;12.64069732;48.69949744;Pilsting;9279132.0;94431.0;;Brandenburg;1966-02-01;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.022;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE229;12.88776568;49.02642236;;9276128.0;94262.0;;Brandenburg;1966-02-04;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE224;12.90662279;48.91490198;;9271116.0;94505.0;;Brandenburg;1966-02-09;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.013;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.31572647;48.52105402;;9275122.0;94081.0;;Brandenburg;1966-02-10;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE219;11.59984341;48.91251272;;9176112.0;93336.0;;Brandenburg;1966-02-23;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.08;Renewable energy;Hydro;;Run-of-river;Amprion;DEB;DEB1;DEB1B;7.81055511;50.70306969;Marienstatt;7143299.0;57629.0;;Rheinland-Pfalz;1966-02-28;;low voltage;;Energienetze Mittelrhein GmbH & Co. KG;10001102.0;Amprion
+0.0045;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE235;12.85499264;49.30860992;;9372126.0;93437.0;;Brandenburg;1966-03-11;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0185;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE226;11.85082279;48.76505085;;9273172.0;93354.0;;Brandenburg;1966-03-30;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.011;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.74266212;48.52266715;;9277131.0;84333.0;;Brandenburg;1966-03-31;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.012;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.88926397;48.42732982;;9277139.0;84389.0;;Brandenburg;1966-04-06;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.135;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE228;13.26829515;48.71359383;Eging a.See;9275120.0;94535.0;;Brandenburg;1966-04-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0052;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22B;12.66892096;48.96935637;;9278151.0;94360.0;;Brandenburg;1966-04-07;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0075;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE21;DE21A;11.97324501;48.39349187;;9177143.0;85456.0;;Brandenburg;1966-04-12;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.024;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE22A;12.67676747;48.38958328;;9277151.0;84339.0;;Brandenburg;1966-04-19;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.003;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE22;DE227;12.02147388;48.71378275;;9274176.0;84056.0;;Brandenburg;1966-04-27;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.0055;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE234;11.94194332;49.25493375;;9371148.0;92287.0;;Brandenburg;1966-04-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.005;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE237;12.40158626;49.70870312;;9374123.0;92697.0;;Brandenburg;1966-04-28;;low voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
+0.02;Renewable energy;Hydro;;Run-of-river;TenneT;DEA;DEA4;DEA45;9.266567711;51.89799842;;5766052.0;32676.0;;Nordrhein-Westfalen;1966-05-02;;low voltage;;Westfalen Weser Netz GmbH;10006808.0;TenneT
+0.097;Renewable energy;Hydro;;Run-of-river;TenneT;DE2;DE23;DE23A;12.00684839;49.91906995;Pullenreuth;9377148.0;95704.0;;Brandenburg;1966-05-16;;low voltage / medium voltage;;Bayernwerk Netz GmbH;10001041.0;TenneT
